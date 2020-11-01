@@ -1,0 +1,2001 @@
+State_Name,District_Name,Season,Crop,Area,Production,lat,lon
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Rabi       ,Dry ginger,94,828.52,11.9843744,92.9559795
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Rabi       ,Groundnut,15.5,7.6,11.9843744,92.9559795
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Whole Year ,Banana,360,5517,11.9843744,92.9559795
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Whole Year ,Coconut ,3540,11000000,11.9843744,92.9559795
+Andhra Pradesh,ANANTAPUR,Kharif     ,Other Kharif pulses,2000,300,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Kharif     ,Ragi,7000,14900,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Kharif     ,Rice,38300,96800,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Kharif     ,Sunflower,21300,12200,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Rabi       ,Dry chillies,200,200,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Rabi       ,Gram,26200,25900,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Rabi       ,Groundnut,25900,35800,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Whole Year ,Sugarcane,700,65900,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Whole Year ,Tobacco,100,100,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Kharif     ,Bajra,1635,889,14.6546235,77.5562598
+Andhra Pradesh,ANANTAPUR,Kharif     ,Castor seed,1880,355,14.6546235,77.5562598
+Andhra Pradesh,CHITTOOR,Kharif     ,Sunflower,535,449,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Kharif     ,Urad,120,7,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Rabi       ,Bajra,393,514,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Rabi       ,Dry chillies,2676,3056,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Rabi       ,Groundnut,22396,60156,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Rabi       ,Horse-gram,1509,318,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Rabi       ,Jowar,54,65,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Whole Year ,Banana,953,19033,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Whole Year ,Cashewnut,126,27,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Whole Year ,Coconut ,4011,17215660,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Whole Year ,Coriander,60,19,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Whole Year ,Potato,957,8177,13.1601048,79.1555506
+Andhra Pradesh,CHITTOOR,Whole Year ,Sugarcane,40539,3697441,13.1601048,79.1555506
+Andhra Pradesh,EAST GODAVARI,Kharif     ,Turmeric,159,1059,17.233496,81.7225986
+Andhra Pradesh,EAST GODAVARI,Kharif     ,Urad,1969,1231,17.233496,81.7225986
+Andhra Pradesh,EAST GODAVARI,Rabi       ,Arhar/Tur,51,49,17.233496,81.7225986
+Andhra Pradesh,EAST GODAVARI,Rabi       ,Brinjal,908,5919,17.233496,81.7225986
+Andhra Pradesh,GUNTUR,Whole Year ,Banana,7612,141059,16.2915189,80.4541588
+Andhra Pradesh,GUNTUR,Whole Year ,Cashewnut,97,21,16.2915189,80.4541588
+Andhra Pradesh,GUNTUR,Whole Year ,Coconut ,519,5555550,16.2915189,80.4541588
+Andhra Pradesh,KADAPA,Whole Year ,Sweet potato,77,557,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Whole Year ,Tobacco,389,489,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Whole Year ,Tomato,3181,39828,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Whole Year ,Turmeric,2476,17221,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Kharif     ,Arhar/Tur,18424,4809,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Kharif     ,Bajra,3709,5512,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Kharif     ,Castor seed,2253,1318,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Kharif     ,Cotton(lint),27717,15815,14.4752936,78.8216861
+Andhra Pradesh,KADAPA,Kharif     ,Dry chillies,3670,8001,14.4752936,78.8216861
+Andhra Pradesh,KRISHNA,Rabi       ,Moong(Green Gram),2748,1333,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Rabi       ,Onion,51,897,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Rabi       ,Other  Rabi pulses,1,0,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Rabi       ,Rapeseed &Mustard,263,19,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Rabi       ,Rice,112917,408308,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Rabi       ,Sesamum,470,98,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Rabi       ,Urad,99735,107614,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Arecanut,4,11,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Banana,1363,26208,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Cashewnut,824,180,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Coconut ,1520,16273950,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Dry ginger,15,28,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Sugarcane,12658,1382481,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Sweet potato,35,474,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Tapioca,4,31,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Tobacco,2669,7177,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Whole Year ,Turmeric,2713,12184,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Kharif     ,Arhar/Tur,7714,4922,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Kharif     ,Cotton(lint),35374,77615,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Kharif     ,Dry chillies,9791,34885,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Kharif     ,Groundnut,1720,1369,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Kharif     ,Jowar,123,70,16.6691525,80.7190024
+Andhra Pradesh,KRISHNA,Kharif     ,Maize,4512,12061,16.6691525,80.7190024
+Andhra Pradesh,KURNOOL,Whole Year ,Banana,2327,32282,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Whole Year ,Coconut ,99,425810,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Whole Year ,Coriander,19621,6632,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Whole Year ,Sugarcane,47,3379,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Whole Year ,Sweet potato,5,68,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Whole Year ,Tobacco,13264,16890,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Whole Year ,Turmeric,1324,9221,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Arhar/Tur,26743,10216,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Bajra,13932,11062,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Castor seed,7013,1977,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Cotton(lint),82631,87006,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Dry chillies,14427,19202,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Gram,10,12,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Groundnut,175910,151283,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Horse-gram,4,2,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Jowar,6577,6939,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Korra,19640,14809,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Maize,785,2098,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Mesta,120,1021,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Moong(Green Gram),2537,1225,15.8309251,78.0425373
+Andhra Pradesh,KURNOOL,Kharif     ,Onion,9130,139853,15.8309251,78.0425373
+Andhra Pradesh,PRAKASAM,Kharif     ,Ragi,150,142,15.5,79.5
+Andhra Pradesh,PRAKASAM,Kharif     ,Rice,50601,156559,15.5,79.5
+Andhra Pradesh,PRAKASAM,Kharif     ,Samai,180,120,15.5,79.5
+Andhra Pradesh,PRAKASAM,Kharif     ,Sesamum,24475,4479,15.5,79.5
+Andhra Pradesh,PRAKASAM,Kharif     ,Small millets,1508,1388,15.5,79.5
+Andhra Pradesh,PRAKASAM,Kharif     ,Sunflower,4622,7021,15.5,79.5
+Andhra Pradesh,PRAKASAM,Kharif     ,Urad,3130,185,15.5,79.5
+Andhra Pradesh,PRAKASAM,Kharif     ,Varagu,7,5,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Arhar/Tur,420,265,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Bajra,1807,2714,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Dry chillies,4607,9417,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Gram,33531,79737,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Groundnut,9927,12180,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Horse-gram,1218,257,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Jowar,6206,4996,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Korra,20,19,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Maize,3137,16890,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Moong(Green Gram),3199,2514,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Onion,56,984,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Other  Rabi pulses,134,66,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Ragi,5951,12241,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Rapeseed &Mustard,3,,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Rice,96893,316840,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Samai,59,39,15.5,79.5
+Andhra Pradesh,PRAKASAM,Rabi       ,Sesamum,2303,481,15.5,79.5
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Turmeric,107,462,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Arhar/Tur,402,141,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Bajra,1326,1671,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Castor seed,11,2,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Cotton(lint),5798,10300,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Dry chillies,55,109,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Rabi       ,Rice,167421,576933,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Rabi       ,Safflower,64,14,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Rabi       ,Sesamum,219,52,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Rabi       ,Sunflower,25302,14043,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Rabi       ,Urad,11005,6042,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Banana,458,8480,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Cashewnut,733,157,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Coconut ,536,6296928,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Coriander,24,15,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Sugarcane,5521,521917,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Sweet potato,138,1771,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Tobacco,10375,7592,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Whole Year ,Turmeric,118,954,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Arhar/Tur,1967,1192,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Bajra,836,1135,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Cotton(lint),4428,10731,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Dry chillies,282,1182,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Groundnut,6420,11357,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Jowar,9,5,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Maize,56,200,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Moong(Green Gram),317,220,14.2939818,79.7794384
+Andhra Pradesh,SPSR NELLORE,Kharif     ,Onion,86,1612,14.2939818,79.7794384
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Castor seed,6,2,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Cotton(lint),1021,2667,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Dry chillies,918,3324,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Groundnut,12864,14601,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Horse-gram,325,140,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Jowar,1442,825,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Korra,220,165,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Maize,6879,7567,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Mesta,307,2611,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Moong(Green Gram),2369,1144,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Niger seed,17313,7341,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Onion,32,444,15.83333,79.75
+Andhra Pradesh,VISAKHAPATANAM,Kharif     ,Other Kharif pulses,3011,1776,15.83333,79.75
+Andhra Pradesh,WEST GODAVARI,Whole Year ,Turmeric,429,2690,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Arhar/Tur,269,129,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Cotton(lint),4370,13444,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Dry chillies,190,855,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Groundnut,1436,1394,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Horse-gram,91,39,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Jowar,174,129,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Maize,2985,8185,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Moong(Green Gram),109,42,17,81.166667
+Andhra Pradesh,WEST GODAVARI,Kharif     ,Other Kharif pulses,8,3,17,81.166667
+Arunachal Pradesh,ANJAW,Whole Year ,Dry chillies,20,26,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Whole Year ,Dry ginger,168,1267,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Whole Year ,Oilseeds total,100,95,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Whole Year ,Potato,115,936,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Whole Year ,Sugarcane,7,38,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Whole Year ,Turmeric,19,93,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Kharif     ,Maize,3490,4257,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Kharif     ,Rice,3945,2355.33,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Kharif     ,Small millets,675,499,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Rabi       ,Wheat,25,37,28.1114301,96.8269996
+Arunachal Pradesh,ANJAW,Whole Year ,Dry chillies,18,25,28.1114301,96.8269996
+Arunachal Pradesh,CHANGLANG,Whole Year ,Sugarcane,595,7740,27.1398402,95.7382485
+Arunachal Pradesh,CHANGLANG,Whole Year ,Turmeric,90,585,27.1398402,95.7382485
+Arunachal Pradesh,CHANGLANG,Kharif     ,Maize,887,1183,27.1398402,95.7382485
+Arunachal Pradesh,CHANGLANG,Kharif     ,Rice,10260,20873,27.1398402,95.7382485
+Arunachal Pradesh,EAST KAMENG,Kharif     ,Small millets,2230,2552,27.3,93.05
+Arunachal Pradesh,EAST KAMENG,Rabi       ,Wheat,470,795,27.3,93.05
+Arunachal Pradesh,EAST KAMENG,Whole Year ,Dry chillies,70,98,27.3,93.05
+Arunachal Pradesh,TAWANG,Whole Year ,Potato,448,4928,27.5879186,91.863733
+Arunachal Pradesh,TAWANG,Whole Year ,Turmeric,12,34,27.5879186,91.863733
+Arunachal Pradesh,TAWANG,Kharif     ,Maize,700,1512,27.5879186,91.863733
+Arunachal Pradesh,TAWANG,Kharif     ,Rice,765,795,27.5879186,91.863733
+Arunachal Pradesh,TAWANG,Kharif     ,Small millets,1010,1212,27.5879186,91.863733
+Arunachal Pradesh,TAWANG,Rabi       ,Wheat,1155,1762,27.5879186,91.863733
+Arunachal Pradesh,UPPER SUBANSIRI,Kharif     ,Rice,4235,6190,28.3,94
+Arunachal Pradesh,UPPER SUBANSIRI,Kharif     ,Small millets,1295,1820,28.3,94
+Arunachal Pradesh,UPPER SUBANSIRI,Whole Year ,Dry chillies,187,314,28.3,94
+Arunachal Pradesh,UPPER SUBANSIRI,Whole Year ,Dry ginger,140,1298,28.3,94
+Arunachal Pradesh,UPPER SUBANSIRI,Whole Year ,Oilseeds total,213,310,28.3,94
+Arunachal Pradesh,UPPER SUBANSIRI,Whole Year ,Potato,210,1952,28.3,94
+Assam,BAKSA,Kharif     ,Sesamum,471,246,26.6278183,91.4614858
+Assam,BAKSA,Kharif     ,Small millets,278,124,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Gram,118,53,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Linseed,768,445,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Masoor,1890,983,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Moong(Green Gram),322,137,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Other  Rabi pulses,617,443,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Peas & beans (Pulses),1174,916,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Rapeseed &Mustard,10758,5228,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Urad,1380,709,26.6278183,91.4614858
+Assam,BAKSA,Rabi       ,Wheat,2853,3230,26.6278183,91.4614858
+Assam,BAKSA,Summer     ,Rice,12737,25691,26.6278183,91.4614858
+Assam,BAKSA,Whole Year ,Arecanut,4136,3174,26.6278183,91.4614858
+Assam,BAKSA,Whole Year ,Banana,2131,31200,26.6278183,91.4614858
+Assam,BAKSA,Whole Year ,Coconut ,1456,11113000,26.6278183,91.4614858
+Assam,BAKSA,Whole Year ,Dry chillies,681,502,26.6278183,91.4614858
+Bihar,ARARIA,Kharif     ,Mesta,3042,22190,26.2649879,87.3716265
+Bihar,ARARIA,Kharif     ,Moong(Green Gram),1097,553,26.2649879,87.3716265
+Bihar,ARARIA,Kharif     ,Ragi,824,491,26.2649879,87.3716265
+Bihar,ARARIA,Kharif     ,Sannhamp,849,734,26.2649879,87.3716265
+Bihar,ARARIA,Kharif     ,Sesamum,12,9,26.2649879,87.3716265
+Bihar,ARARIA,Kharif     ,Urad,257,200,26.2649879,87.3716265
+Bihar,ARARIA,Rabi       ,Barley,55,59,26.2649879,87.3716265
+Bihar,ARARIA,Rabi       ,Gram,524,498,26.2649879,87.3716265
+Bihar,ARARIA,Rabi       ,Khesari,3522,1983,26.2649879,87.3716265
+Bihar,SUPAUL,Rabi       ,Wheat,55772,88744,26.2768118,86.7965866
+Bihar,SUPAUL,Summer     ,Maize,6257,13777,26.2768118,86.7965866
+Bihar,SUPAUL,Summer     ,Rice,23589,22668,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Banana,1108,37528,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Coriander,134,78,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Dry chillies,128,128,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Garlic,66,97,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Onion,382,5306,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Potato,4507,59543,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Sweet potato,620,4091,26.2768118,86.7965866
+Bihar,SUPAUL,Whole Year ,Turmeric,54,56,26.2768118,86.7965866
+Bihar,VAISHALI,Kharif     ,Sesamum,30,15,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Sunflower,8,3,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Urad,821,586,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Gram,117,114,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Khesari,157,95,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Linseed,152,83,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Maize,4508,9593,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Masoor,282,227,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Moong(Green Gram),16852,8746,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Other  Rabi pulses,82,69,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Peas & beans (Pulses),31,25,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Rapeseed &Mustard,2536,1775,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Wheat,40889,98847,25.75,85.416667
+Bihar,VAISHALI,Summer     ,Maize,9473,20867,25.75,85.416667
+Bihar,VAISHALI,Summer     ,Rice,56,45,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Banana,2248,49434,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Coriander,300,159,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Dry chillies,71,94,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Garlic,44,65,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Onion,860,3035,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Potato,6216,43120,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Sugarcane,171,6731,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Sweet potato,493,6722,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Tobacco,7816,7918,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Turmeric,120,126,25.75,85.416667
+Bihar,VAISHALI,Autumn     ,Rice,50324,77664,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Arhar/Tur,1543,1509,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Dry ginger,6,9,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Jute,87,729,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Maize,14746,30661,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Mesta,590,3124,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Moong(Green Gram),43,37,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Other Kharif pulses,74,38,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Ragi,378,338,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Rice,12250,19943,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Sesamum,17,12,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Small millets,1980,1045,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Sunflower,5,5,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Urad,759,489,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Barley,407,459,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Gram,121,125,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Khesari,545,334,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Linseed,453,371,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Maize,6606,12849,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Masoor,391,1355,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Moong(Green Gram),15866,9266,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Other  Rabi pulses,42,21,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Peas & beans (Pulses),31,30,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Rapeseed &Mustard,2680,1876,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Wheat,43299,109076,25.75,85.416667
+Bihar,VAISHALI,Summer     ,Maize,9789,26479,25.75,85.416667
+Bihar,VAISHALI,Summer     ,Rice,300,358,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Banana,2212,9335,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Coriander,255,104,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Dry chillies,70,48,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Garlic,53,80,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Onion,952,6997,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Potato,7007,42732,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Sugarcane,164,6768,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Sweet potato,665,8056,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Tobacco,7927,9219,25.75,85.416667
+Bihar,VAISHALI,Whole Year ,Turmeric,148,164,25.75,85.416667
+Bihar,VAISHALI,Autumn     ,Maize,15488,14347,25.75,85.416667
+Bihar,VAISHALI,Autumn     ,Rice,47097,69015,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Arhar/Tur,1366,1336,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Jute,59,394,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Mesta,589,1924,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Moong(Green Gram),4,2,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Other Kharif pulses,21,11,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Ragi,174,163,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Rice,336,648,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Sesamum,22,16,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Small millets,790,586,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Sunflower,8,9,25.75,85.416667
+Bihar,VAISHALI,Kharif     ,Urad,754,537,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Barley,252,453,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Gram,354,336,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Khesari,146,119,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Linseed,120,85,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Maize,5360,18642,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Masoor,281,173,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Other  Rabi pulses,64,44,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Peas & beans (Pulses),15,15,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Rapeseed &Mustard,2430,1618,25.75,85.416667
+Bihar,VAISHALI,Rabi       ,Wheat,47414,108088,25.75,85.416667
+Bihar,VAISHALI,Summer     ,Maize,6421,16387,25.75,85.416667
+Bihar,VAISHALI,Summer     ,Rice,14078,19203,25.75,85.416667
+Chandigarh,CHANDIGARH,Kharif     ,Maize,20,40,30.7334421,76.7797143
+Chandigarh,CHANDIGARH,Kharif     ,Rice,50,250,30.7334421,76.7797143
+Chandigarh,CHANDIGARH,Rabi       ,Wheat,600,2750,30.7334421,76.7797143
+Chandigarh,CHANDIGARH,Whole Year ,Onion,5,85,30.7334421,76.7797143
+Chandigarh,CHANDIGARH,Whole Year ,Potato,20,360,30.7334421,76.7797143
+Chandigarh,CHANDIGARH,Kharif     ,Maize,20,40,30.7334421,76.7797143
+Chandigarh,CHANDIGARH,Kharif     ,Rice,50,250,30.7334421,76.7797143
+Chhattisgarh,BALODA BAZAR,Whole Year ,Onion,184,596,21.572646,82.4367069
+Chhattisgarh,BALODA BAZAR,Whole Year ,Sannhamp,8,3,21.572646,82.4367069
+Chhattisgarh,BALODA BAZAR,Whole Year ,Sugarcane,34,114,21.572646,82.4367069
+Chhattisgarh,BALODA BAZAR,Whole Year ,Sweet potato,57,278,21.572646,82.4367069
+Chhattisgarh,BALODA BAZAR,Whole Year ,Turmeric,29,58,21.572646,82.4367069
+Chhattisgarh,BALODA BAZAR,Kharif     ,Arhar/Tur,1486,560,21.572646,82.4367069
+Chhattisgarh,BALODA BAZAR,Kharif     ,Groundnut,458,599,21.572646,82.4367069
+Chhattisgarh,BALODA BAZAR,Kharif     ,Horse-gram,120,45,21.572646,82.4367069
+Chhattisgarh,BALRAMPUR,Kharif     ,Sunflower,4,1,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Kharif     ,Urad,4871,1796,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Barley,1398,360,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Gram,963,1044,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Linseed,4264,1711,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Masoor,514,168,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Moong(Green Gram),29,5,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Peas & beans (Pulses),601,326,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Potato,1487,10264,23.6263016,83.4824509
+Chhattisgarh,BALRAMPUR,Rabi       ,Rapeseed &Mustard,8342,4626,23.6263016,83.4824509
+Chhattisgarh,BASTAR,Whole Year ,Sugarcane,596,3156,19.1191282,81.8291865
+Chhattisgarh,BASTAR,Whole Year ,Sweet potato,111,638,19.1191282,81.8291865
+Chhattisgarh,BASTAR,Whole Year ,Tobacco,7,4,19.1191282,81.8291865
+Chhattisgarh,BASTAR,Whole Year ,Turmeric,116,66,19.1191282,81.8291865
+Chhattisgarh,BEMETARA,Kharif     ,Arhar/Tur,4495,2144,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Cotton(lint),45,68,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Groundnut,330,512,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Jowar,3,2,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Maize,17,20,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Moong(Green Gram),10,2,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Rice,155499,271535,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Sesamum,154,59,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Small millets,868,116,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Soyabean,32629,23959,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Sunflower,7,4,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Kharif     ,Urad,451,136,21.6783969,81.4304762
+Chhattisgarh,BEMETARA,Rabi       ,Barley,74,65,21.6783969,81.4304762
+Chhattisgarh,BIJAPUR,Kharif     ,Sesamum,142,30,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Kharif     ,Small millets,1005,187,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Kharif     ,Sunflower,2,,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Kharif     ,Urad,372,88,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Rabi       ,Gram,3,2,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Rabi       ,Horse-gram,286,80,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Rabi       ,Moong(Green Gram),460,126,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Rabi       ,Other  Rabi pulses,61,8,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Rabi       ,Rapeseed &Mustard,87,28,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Rabi       ,Urad,183,36,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Whole Year ,Banana,3,70,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Whole Year ,Dry chillies,62,25,18.7935679,80.815939
+Chhattisgarh,BIJAPUR,Whole Year ,Sannhamp,13,3,18.7935679,80.815939
+Chhattisgarh,KOREA,Kharif     ,Other Kharif pulses,164,47,23.2382999,82.3906588
+Chhattisgarh,KOREA,Kharif     ,Rice,66735,36098,23.2382999,82.3906588
+Chhattisgarh,KOREA,Kharif     ,Sesamum,1294,190,23.2382999,82.3906588
+Chhattisgarh,KOREA,Kharif     ,Small millets,11608,2334,23.2382999,82.3906588
+Chhattisgarh,KOREA,Kharif     ,Soyabean,30,13,23.2382999,82.3906588
+Chhattisgarh,KOREA,Kharif     ,Urad,3873,1050,23.2382999,82.3906588
+Chhattisgarh,KOREA,Rabi       ,Barley,373,155,23.2382999,82.3906588
+Chhattisgarh,KOREA,Rabi       ,Gram,413,209,23.2382999,82.3906588
+Chhattisgarh,KOREA,Rabi       ,Khesari,337,119,23.2382999,82.3906588
+Chhattisgarh,KOREA,Rabi       ,Linseed,1144,234,23.2382999,82.3906588
+Chhattisgarh,KOREA,Rabi       ,Masoor,204,39,23.2382999,82.3906588
+Chhattisgarh,KOREA,Rabi       ,Peas & beans (Pulses),239,61,23.2382999,82.3906588
+Chhattisgarh,KOREA,Rabi       ,Rapeseed &Mustard,3212,769,23.2382999,82.3906588
+Chhattisgarh,RAIPUR,Kharif     ,Ragi,848,232,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Kharif     ,Rice,517577,616749,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Kharif     ,Sesamum,3363,809,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Kharif     ,Small millets,7890,1209,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Kharif     ,Soyabean,756,860,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Kharif     ,Sunflower,291,111,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Kharif     ,Urad,5132,1704,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Rabi       ,Gram,6970,5597,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Rabi       ,Khesari,76172,43344,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Rabi       ,Linseed,2306,593,21.2379469,81.6336833
+Chhattisgarh,RAIPUR,Rabi       ,Masoor,1861,702,21.2379469,81.6336833
+Chhattisgarh,SURGUJA,Kharif     ,Soyabean,63,32,22.9494183,83.1655491
+Chhattisgarh,SURGUJA,Kharif     ,Urad,16092,4537,22.9494183,83.1655491
+Chhattisgarh,SURGUJA,Rabi       ,Barley,3722,3107,22.9494183,83.1655491
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Kharif     ,Small millets,265,162,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Rabi       ,Maize,20,20,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Rabi       ,Other  Rabi pulses,3940,3940,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Rabi       ,Rice,1550,3364,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Winter     ,Gram,140,140,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Winter     ,Niger seed,30,30,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Winter     ,Sugarcane,1422,92430,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Winter     ,Wheat,710,1500,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Kharif     ,Arhar/Tur,1470,1427,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Kharif     ,Banana,15,300,20.2734505,73.0064718
+Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,Kharif     ,Coconut ,180,450,20.2734505,73.0064718
+Goa,NORTH GOA,Kharif     ,Ragi,25,26,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Rice,18201,35411,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Groundnut,2249,6843,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Other  Rabi pulses,6699,7372,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Rice,8688,24343,15.6044413,74.0017241
+Goa,NORTH GOA,Whole Year ,Sugarcane,136,5430,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Groundnut,461,1390,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Other Kharif pulses,150,126,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Ragi,25,23,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Rice,17314,41896,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Groundnut,2418,6885,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Other  Rabi pulses,5720,6242,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Rice,8450,22437,15.6044413,74.0017241
+Goa,NORTH GOA,Whole Year ,Sugarcane,141,5933,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Groundnut,357,1022,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Other Kharif pulses,175,123,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Ragi,26,25,15.6044413,74.0017241
+Goa,NORTH GOA,Kharif     ,Rice,18019,47954,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Groundnut,2835,6973,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Other  Rabi pulses,8175,6844,15.6044413,74.0017241
+Goa,NORTH GOA,Rabi       ,Rice,8450,23108,15.6044413,74.0017241
+Goa,SOUTH GOA,Whole Year ,Cashewnut,15224,6217,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Coconut ,14371,717,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Mango,3388,6239,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Other Fresh Fruits,1581,16727,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Other Vegetables,3175,36345,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Pineapple,103,1714,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Sugarcane,732,42303,15.2196136,74.1152813
+Goa,SOUTH GOA,Kharif     ,Other Kharif pulses,8,8,15.2196136,74.1152813
+Goa,SOUTH GOA,Kharif     ,Ragi,15.4,10.72,15.2196136,74.1152813
+Goa,SOUTH GOA,Kharif     ,Rice,13455,40307,15.2196136,74.1152813
+Goa,SOUTH GOA,Rabi       ,Other  Rabi pulses,1305,984,15.2196136,74.1152813
+Goa,SOUTH GOA,Rabi       ,Rice,7310,20410,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Arecanut,278,452,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Banana,1076,12128,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Black pepper,321,98,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Cashewnut,15260,6714,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Coconut ,14387,714,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Mango,3401,6205,15.2196136,74.1152813
+Goa,SOUTH GOA,Whole Year ,Other Fresh Fruits,2283,24302,15.2196136,74.1152813
+Gujarat,AHMADABAD,Kharif     ,Other Kharif pulses,800,400,23.0216238,72.5797068
+Gujarat,AHMADABAD,Kharif     ,Rice,82000,144300,23.0216238,72.5797068
+Gujarat,AHMADABAD,Kharif     ,Sesamum,4100,2300,23.0216238,72.5797068
+Gujarat,AHMADABAD,Kharif     ,Urad,800,500,23.0216238,72.5797068
+Gujarat,AHMADABAD,Rabi       ,Gram,12700,4200,23.0216238,72.5797068
+Gujarat,AHMADABAD,Rabi       ,Jowar,100,100,23.0216238,72.5797068
+Gujarat,AHMADABAD,Rabi       ,Rapeseed &Mustard,2000,1900,23.0216238,72.5797068
+Gujarat,AHMADABAD,Rabi       ,Wheat,81000,103500,23.0216238,72.5797068
+Gujarat,AHMADABAD,Summer     ,Bajra,7900,16600,23.0216238,72.5797068
+Gujarat,AHMADABAD,Summer     ,Groundnut,100,100,23.0216238,72.5797068
+Gujarat,AHMADABAD,Whole Year ,Dry chillies,100,100,23.0216238,72.5797068
+Gujarat,AHMADABAD,Whole Year ,Guar seed,3500,1500,23.0216238,72.5797068
+Gujarat,AMRELI,Kharif     ,Small millets,2000,300,20.866667,70.75
+Gujarat,AMRELI,Kharif     ,Urad,3500,2900,20.866667,70.75
+Gujarat,AMRELI,Rabi       ,Gram,1100,300,20.866667,70.75
+Gujarat,AMRELI,Rabi       ,Jowar,100,100,20.866667,70.75
+Gujarat,AMRELI,Rabi       ,Rapeseed &Mustard,400,500,20.866667,70.75
+Gujarat,AMRELI,Rabi       ,Wheat,11200,30100,20.866667,70.75
+Gujarat,AMRELI,Summer     ,Bajra,200,300,20.866667,70.75
+Gujarat,AMRELI,Summer     ,Groundnut,500,800,20.866667,70.75
+Gujarat,AMRELI,Whole Year ,Dry chillies,100,100,20.866667,70.75
+Gujarat,AMRELI,Whole Year ,Garlic,400,2400,20.866667,70.75
+Gujarat,ANAND,Rabi       ,Jowar,100,100,22.5584995,72.9625629
+Gujarat,ANAND,Rabi       ,Other  Rabi pulses,300,300,22.5584995,72.9625629
+Gujarat,ANAND,Rabi       ,Rapeseed &Mustard,2400,3900,22.5584995,72.9625629
+Gujarat,ANAND,Rabi       ,Wheat,54500,132300,22.5584995,72.9625629
+Gujarat,ANAND,Summer     ,Bajra,21800,60000,22.5584995,72.9625629
+Gujarat,ANAND,Summer     ,Groundnut,800,1300,22.5584995,72.9625629
+Gujarat,ANAND,Summer     ,Rice,5000,15300,22.5584995,72.9625629
+Gujarat,ANAND,Whole Year ,Banana,8200,606400,22.5584995,72.9625629
+Gujarat,ANAND,Whole Year ,Dry chillies,1400,1400,22.5584995,72.9625629
+Gujarat,ANAND,Whole Year ,Garlic,200,1400,22.5584995,72.9625629
+Gujarat,ANAND,Whole Year ,Onion,200,6800,22.5584995,72.9625629
+Gujarat,ANAND,Whole Year ,Potato,4000,82500,22.5584995,72.9625629
+Gujarat,ANAND,Whole Year ,Tobacco,13000,23900,22.5584995,72.9625629
+Gujarat,ANAND,Kharif     ,Arhar/Tur,1100,1000,22.5584995,72.9625629
+Gujarat,ANAND,Kharif     ,Bajra,28600,41800,22.5584995,72.9625629
+Gujarat,ANAND,Kharif     ,Castor seed,1900,3700,22.5584995,72.9625629
+Gujarat,BHARUCH,Kharif     ,Urad,2500,1900,21.75,73
+Gujarat,BHARUCH,Rabi       ,Gram,2100,2400,21.75,73
+Gujarat,BHARUCH,Rabi       ,Jowar,11900,9500,21.75,73
+Gujarat,BHARUCH,Rabi       ,Maize,1000,2400,21.75,73
+Gujarat,BHARUCH,Rabi       ,Other  Rabi pulses,9200,7200,21.75,73
+Gujarat,BHARUCH,Rabi       ,Other Cereals & Millets,1500,1400,21.75,73
+Gujarat,BHARUCH,Rabi       ,Rapeseed &Mustard,200,300,21.75,73
+Gujarat,BHARUCH,Rabi       ,Wheat,22000,45800,21.75,73
+Gujarat,BHARUCH,Summer     ,Bajra,2100,5300,21.75,73
+Gujarat,BHARUCH,Summer     ,Groundnut,3500,6700,21.75,73
+Gujarat,BHARUCH,Summer     ,Maize,500,1000,21.75,73
+Gujarat,BHARUCH,Summer     ,Moong(Green Gram),2700,1400,21.75,73
+Gujarat,DANG,Kharif     ,Ragi,9700,11100,20.6942515,73.5703741
+Gujarat,DANG,Kharif     ,Rice,17900,22700,20.6942515,73.5703741
+Gujarat,DANG,Kharif     ,Urad,4200,3100,20.6942515,73.5703741
+Gujarat,DANG,Rabi       ,Gram,1200,1200,20.6942515,73.5703741
+Gujarat,DANG,Rabi       ,Onion,500,13100,20.6942515,73.5703741
+Gujarat,DANG,Rabi       ,Other  Rabi pulses,700,400,20.6942515,73.5703741
+Gujarat,DANG,Rabi       ,Wheat,700,1700,20.6942515,73.5703741
+Gujarat,DANG,Summer     ,Groundnut,600,1100,20.6942515,73.5703741
+Gujarat,DANG,Whole Year ,Garlic,200,1000,20.6942515,73.5703741
+Gujarat,DANG,Whole Year ,Sugarcane,100,11000,20.6942515,73.5703741
+Gujarat,GANDHINAGAR,Rabi       ,Rapeseed &Mustard,4100,6200,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Rabi       ,Tobacco,2600,4300,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Rabi       ,Wheat,35100,116200,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Summer     ,Bajra,15700,42700,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Summer     ,Groundnut,300,700,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Summer     ,Moong(Green Gram),200,100,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Whole Year ,Guar seed,4200,2400,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Whole Year ,Potato,3400,88500,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Kharif     ,Arhar/Tur,300,300,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Kharif     ,Bajra,8200,8900,23.2232877,72.6492267
+Gujarat,GANDHINAGAR,Kharif     ,Castor seed,28600,59400,23.2232877,72.6492267
+Gujarat,PATAN,Kharif     ,Other Kharif pulses,1300,800,23.7740573,71.6837347
+Gujarat,PATAN,Kharif     ,Sesamum,6300,2000,23.7740573,71.6837347
+Gujarat,PATAN,Kharif     ,Tobacco,200,300,23.7740573,71.6837347
+Gujarat,PATAN,Kharif     ,Urad,12800,7700,23.7740573,71.6837347
+Gujarat,PATAN,Rabi       ,Gram,5500,3400,23.7740573,71.6837347
+Gujarat,PATAN,Rabi       ,Rapeseed &Mustard,48200,54800,23.7740573,71.6837347
+Gujarat,PATAN,Rabi       ,Wheat,26200,67600,23.7740573,71.6837347
+Gujarat,PATAN,Summer     ,Bajra,4700,12800,23.7740573,71.6837347
+Gujarat,PATAN,Whole Year ,Dry chillies,200,200,23.7740573,71.6837347
+Gujarat,PATAN,Whole Year ,Guar seed,9000,5400,23.7740573,71.6837347
+Gujarat,PATAN,Whole Year ,Potato,300,6100,23.7740573,71.6837347
+Gujarat,SURAT,Kharif     ,Other Cereals & Millets,100,100,21.1864607,72.8081281
+Gujarat,SURAT,Kharif     ,Other Kharif pulses,300,100,21.1864607,72.8081281
+Gujarat,SURAT,Kharif     ,Rice,39700,84100,21.1864607,72.8081281
+Gujarat,SURAT,Kharif     ,Soyabean,1600,700,21.1864607,72.8081281
+Gujarat,SURAT,Kharif     ,Urad,800,300,21.1864607,72.8081281
+Gujarat,SURAT,Rabi       ,Gram,500,500,21.1864607,72.8081281
+Gujarat,SURAT,Rabi       ,Jowar,2700,2900,21.1864607,72.8081281
+Gujarat,SURAT,Rabi       ,Onion,100,1900,21.1864607,72.8081281
+Gujarat,SURAT,Rabi       ,Other  Rabi pulses,200,200,21.1864607,72.8081281
+Gujarat,SURAT,Rabi       ,Other Cereals & Millets,300,700,21.1864607,72.8081281
+Gujarat,SURAT,Rabi       ,Wheat,8100,23100,21.1864607,72.8081281
+Gujarat,SURAT,Summer     ,Groundnut,1100,1700,21.1864607,72.8081281
+Gujarat,SURAT,Summer     ,Rice,8900,26900,21.1864607,72.8081281
+Gujarat,SURAT,Whole Year ,Banana,1000,79300,21.1864607,72.8081281
+Gujarat,SURAT,Whole Year ,Dry chillies,100,100,21.1864607,72.8081281
+Gujarat,SURAT,Whole Year ,Garlic,100,200,21.1864607,72.8081281
+Gujarat,SURAT,Whole Year ,Sugarcane,84400,611300,21.1864607,72.8081281
+Gujarat,SURENDRANAGAR,Kharif     ,Arhar/Tur,200,200,22.75,71.666667
+Gujarat,SURENDRANAGAR,Kharif     ,Bajra,85900,103000,22.75,71.666667
+Gujarat,SURENDRANAGAR,Kharif     ,Dry chillies,1100,1500,22.75,71.666667
+Gujarat,SURENDRANAGAR,Kharif     ,Groundnut,21800,28000,22.75,71.666667
+Gujarat,SURENDRANAGAR,Kharif     ,Moong(Green Gram),4200,1800,22.75,71.666667
+Gujarat,SURENDRANAGAR,Kharif     ,Moth,6200,3100,22.75,71.666667
+Gujarat,SURENDRANAGAR,Kharif     ,Urad,100,100,22.75,71.666667
+Gujarat,SURENDRANAGAR,Rabi       ,Gram,6300,3000,22.75,71.666667
+Gujarat,SURENDRANAGAR,Rabi       ,Jowar,100,100,22.75,71.666667
+Gujarat,SURENDRANAGAR,Rabi       ,Rapeseed &Mustard,500,500,22.75,71.666667
+Gujarat,SURENDRANAGAR,Rabi       ,Wheat,22500,46800,22.75,71.666667
+Gujarat,SURENDRANAGAR,Summer     ,Bajra,300,600,22.75,71.666667
+Gujarat,SURENDRANAGAR,Summer     ,Groundnut,5800,8100,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Castor seed,3600,8300,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Cotton(lint),398200,700000,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Garlic,100,400,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Onion,200,5900,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Pulses total,10700,52,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Rice,600,1200,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Sesamum,62900,34400,22.75,71.666667
+Gujarat,SURENDRANAGAR,Whole Year ,Sugarcane,400,32000,22.75,71.666667
+Gujarat,VALSAD,Rabi       ,Other  Rabi pulses,3200,2700,20.4324018,73.1411716
+Gujarat,VALSAD,Rabi       ,Other Cereals & Millets,200,200,20.4324018,73.1411716
+Gujarat,VALSAD,Rabi       ,Wheat,200,700,20.4324018,73.1411716
+Gujarat,VALSAD,Summer     ,Groundnut,100,100,20.4324018,73.1411716
+Gujarat,VALSAD,Summer     ,Moong(Green Gram),300,100,20.4324018,73.1411716
+Gujarat,VALSAD,Summer     ,Rice,2700,8700,20.4324018,73.1411716
+Gujarat,VALSAD,Whole Year ,Dry chillies,200,200,20.4324018,73.1411716
+Gujarat,VALSAD,Whole Year ,other oilseeds,5900,1900,20.4324018,73.1411716
+Gujarat,VALSAD,Whole Year ,Sugarcane,7600,532000,20.4324018,73.1411716
+Gujarat,VALSAD,Kharif     ,Arhar/Tur,7800,5300,20.4324018,73.1411716
+Haryana,AMBALA,Kharif     ,Bajra,272,,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Cotton(lint),3,,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Groundnut,4,,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Horse-gram,2,,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Maize,2719,6000,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Moong(Green Gram),2,,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Rice,76540,254000,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Sesamum,4,,30.3843674,76.770421
+Haryana,AMBALA,Kharif     ,Urad,684,200,30.3843674,76.770421
+Haryana,AMBALA,Rabi       ,Barley,13,,30.3843674,76.770421
+Haryana,AMBALA,Rabi       ,Gram,125,,30.3843674,76.770421
+Haryana,AMBALA,Rabi       ,Masoor,1400,900,30.3843674,76.770421
+Haryana,AMBALA,Rabi       ,Peas & beans (Pulses),27,,30.3843674,76.770421
+Haryana,AMBALA,Rabi       ,Rapeseed &Mustard,2237,2000,30.3843674,76.770421
+Haryana,AMBALA,Rabi       ,Sunflower,5358,9000,30.3843674,76.770421
+Haryana,AMBALA,Rabi       ,Wheat,83017,314000,30.3843674,76.770421
+Haryana,AMBALA,Whole Year ,Dry chillies,254,200,30.3843674,76.770421
+Haryana,AMBALA,Whole Year ,Onion,1137,30700,30.3843674,76.770421
+Haryana,FARIDABAD,Kharif     ,Maize,764,2000,28.402837,77.3085626
+Haryana,FARIDABAD,Kharif     ,Moong(Green Gram),319,0,28.402837,77.3085626
+Haryana,FARIDABAD,Kharif     ,Other Kharif pulses,2761,500,28.402837,77.3085626
+Haryana,FARIDABAD,Kharif     ,Rice,28959,80000,28.402837,77.3085626
+Haryana,FARIDABAD,Kharif     ,Sesamum,456,100,28.402837,77.3085626
+Haryana,FARIDABAD,Kharif     ,Urad,162,0,28.402837,77.3085626
+Haryana,FARIDABAD,Rabi       ,Barley,1913,6000,28.402837,77.3085626
+Haryana,FARIDABAD,Rabi       ,Gram,5,0,28.402837,77.3085626
+Haryana,FARIDABAD,Rabi       ,Masoor,34,0,28.402837,77.3085626
+Haryana,FARIDABAD,Rabi       ,Peas & beans (Pulses),28,0,28.402837,77.3085626
+Haryana,FARIDABAD,Rabi       ,Rapeseed &Mustard,3801,6000,28.402837,77.3085626
+Haryana,FARIDABAD,Rabi       ,Wheat,133898,539000,28.402837,77.3085626
+Haryana,GURGAON,Rabi       ,Wheat,44667,205000,28.4282624,77.0027001
+Haryana,GURGAON,Whole Year ,Guar seed,1679,1091,28.4282624,77.0027001
+Haryana,GURGAON,Whole Year ,Sugarcane,68,,28.4282624,77.0027001
+Haryana,GURGAON,Whole Year ,Sweet potato,9,200,28.4282624,77.0027001
+Haryana,HISAR,Kharif     ,Bajra,62000,109000,29.168807,75.7461103
+Haryana,HISAR,Kharif     ,Gram,59000,45000,29.168807,75.7461103
+Haryana,HISAR,Kharif     ,Other Kharif pulses,5300,3600,29.168807,75.7461103
+Haryana,HISAR,Kharif     ,Rice,22000,64000,29.168807,75.7461103
+Haryana,HISAR,Rabi       ,Barley,5000,13000,29.168807,75.7461103
+Haryana,HISAR,Rabi       ,Other  Rabi pulses,2000,3000,29.168807,75.7461103
+Haryana,HISAR,Rabi       ,Wheat,158000,654000,29.168807,75.7461103
+Haryana,HISAR,Whole Year ,Cotton(lint),160000,301000,29.168807,75.7461103
+Haryana,KURUKSHETRA,Rabi       ,Masoor,386,500,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Rabi       ,Peas & beans (Pulses),154,200,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Rabi       ,Rapeseed &Mustard,885,1000,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Rabi       ,Sunflower,3114,5900,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Rabi       ,Wheat,110285,514000,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Whole Year ,Dry chillies,95,100,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Whole Year ,Onion,363,9100,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Whole Year ,Potato,6033,155300,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Whole Year ,Sugarcane,15187,1034000,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Kharif     ,Bajra,99,,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Kharif     ,Maize,87,,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Kharif     ,Moong(Green Gram),48,,29.9693747,76.8482787
+Haryana,KURUKSHETRA,Kharif     ,Rice,114536,460000,29.9693747,76.8482787
+Haryana,SIRSA,Whole Year ,Dry chillies,39,300,29.583333,75.083333
+Haryana,SIRSA,Whole Year ,Garlic,80,100,29.583333,75.083333
+Haryana,SIRSA,Whole Year ,Potato,60,1100,29.583333,75.083333
+Himachal Pradesh,CHAMBA,Rabi       ,Linseed,50,9,32.5,76.5
+Himachal Pradesh,CHAMBA,Rabi       ,Rapeseed &Mustard,2955,839,32.5,76.5
+Himachal Pradesh,CHAMBA,Rabi       ,Wheat,22139,37741,32.5,76.5
+Himachal Pradesh,CHAMBA,Whole Year ,Coriander,16,5,32.5,76.5
+Himachal Pradesh,CHAMBA,Whole Year ,Dry chillies,39,9,32.5,76.5
+Himachal Pradesh,CHAMBA,Whole Year ,Garlic,75,44,32.5,76.5
+Himachal Pradesh,CHAMBA,Whole Year ,Onion,62,442,32.5,76.5
+Himachal Pradesh,CHAMBA,Whole Year ,Potato,604,6276,32.5,76.5
+Himachal Pradesh,CHAMBA,Whole Year ,Tobacco,20,23,32.5,76.5
+Himachal Pradesh,CHAMBA,Kharif     ,Dry ginger,2,14,32.5,76.5
+Himachal Pradesh,CHAMBA,Kharif     ,Horse-gram,321,92,32.5,76.5
+Himachal Pradesh,UNA,Kharif     ,Rice,3248,7795,31.583333,76.25
+Himachal Pradesh,UNA,Kharif     ,Sesamum,603,171,31.583333,76.25
+Himachal Pradesh,UNA,Kharif     ,Urad,496,171,31.583333,76.25
+Himachal Pradesh,UNA,Rabi       ,Gram,93,111,31.583333,76.25
+Himachal Pradesh,UNA,Rabi       ,Rapeseed &Mustard,1558,1094,31.583333,76.25
+Himachal Pradesh,UNA,Rabi       ,Wheat,30885,49439,31.583333,76.25
+Jammu and Kashmir ,ANANTNAG,Kharif     ,Urad,87,42.7,33.7366359,75.1457394
+Jammu and Kashmir ,ANANTNAG,Kharif     ,Dry chillies,78,92.5,33.7366359,75.1457394
+Jammu and Kashmir ,ANANTNAG,Kharif     ,Maize,12566,18940,33.7366359,75.1457394
+Jammu and Kashmir ,ANANTNAG,Kharif     ,Moong(Green Gram),114,58.8,33.7366359,75.1457394
+Jharkhand,CHATRA,Rabi       ,Potato,553,1971,24.2016249,84.8781769
+Jharkhand,CHATRA,Rabi       ,Rapeseed &Mustard,297,144,24.2016249,84.8781769
+Jharkhand,CHATRA,Rabi       ,Wheat,3735,3152,24.2016249,84.8781769
+Jharkhand,DEOGHAR,Autumn     ,Maize,2778.16,3011.53,24.4766423,86.6067325
+Jharkhand,DEOGHAR,Autumn     ,Rice,1955.12,1772.64,24.4766423,86.6067325
+Jharkhand,GUMLA,Rabi       ,Potato,903,3401,23.0916741,84.5738481
+Jharkhand,GUMLA,Rabi       ,Rapeseed &Mustard,285,252,23.0916741,84.5738481
+Jharkhand,GUMLA,Rabi       ,Wheat,870,1087,23.0916741,84.5738481
+Jharkhand,HAZARIBAGH,Autumn     ,Maize,8017,7656.24,23.9675151,85.4388457
+Jharkhand,HAZARIBAGH,Autumn     ,Ragi,1853.22,1866.19,23.9675151,85.4388457
+Jharkhand,HAZARIBAGH,Autumn     ,Rice,4858.61,4152.49,23.9675151,85.4388457
+Karnataka,BAGALKOT,Summer     ,Sunflower,1527,1065,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Banana,954,23628,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Coconut ,1283,6130,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Coriander,31,3,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Dry chillies,579,595,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Garlic,30,25,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Onion,3614,52778,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Sugarcane,53888,6143232,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Sweet potato,51,162,16.1853166,75.6967919
+Karnataka,BAGALKOT,Whole Year ,Turmeric,310,1684,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Arhar/Tur,4984,3693,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Bajra,41232,41300,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Castor seed,52,67,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Cotton(lint),15767,23002,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Groundnut,14487,9664,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Horse-gram,2359,2902,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Jowar,11375,22359,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Maize,31263,99110,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Mesta,9,17,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Moong(Green Gram),23658,10069,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Niger seed,435,66,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Other Kharif pulses,2961,1001,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Rice,171,311,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Sesamum,1981,969,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Small millets,1142,723,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Soyabean,4743,4749,16.1853166,75.6967919
+Karnataka,BAGALKOT,Kharif     ,Sunflower,25378,16262,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Gram,16454,9834,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Groundnut,11875,17305,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Horse-gram,1530,490,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Jowar,132473,94603,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Linseed,4647,1377,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Maize,17492,47659,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Other  Rabi pulses,677,90,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Rapeseed &Mustard,74,11,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Safflower,3296,3023,16.1853166,75.6967919
+Karnataka,BAGALKOT,Rabi       ,Sunflower,36375,20518,16.1853166,75.6967919
+Kerala,MALAPPURAM,Whole Year ,Black pepper,7858,1014,11.1068448,76.1099551
+Kerala,MALAPPURAM,Whole Year ,Cardamom,70,2,11.1068448,76.1099551
+Kerala,MALAPPURAM,Whole Year ,Cashewnut,6178,5411,11.1068448,76.1099551
+Kerala,MALAPPURAM,Whole Year ,Coconut ,104731,832000000,11.1068448,76.1099551
+Kerala,MALAPPURAM,Whole Year ,Dry ginger,75,149,11.1068448,76.1099551
+Kerala,MALAPPURAM,Whole Year ,Sweet potato,132,1518,11.1068448,76.1099551
+Kerala,MALAPPURAM,Whole Year ,Tapioca,7096,287438,11.1068448,76.1099551
+Kerala,MALAPPURAM,Whole Year ,Turmeric,356,631,11.1068448,76.1099551
+Kerala,MALAPPURAM,Winter     ,Rice,6385,13599,11.1068448,76.1099551
+Kerala,MALAPPURAM,Autumn     ,Rice,1744,3819,11.1068448,76.1099551
+Madhya Pradesh,BURHANPUR,Kharif     ,Rice,3478,3764,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Kharif     ,Sesamum,288,170,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Kharif     ,Small millets,256,42,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Kharif     ,Soyabean,14214,6924,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Kharif     ,Sunflower,2,1,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Kharif     ,Urad,1938,523,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Rabi       ,Gram,2802,2791,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Rabi       ,Jowar,51,44,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Rabi       ,Masoor,21,8,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Rabi       ,Rapeseed &Mustard,1,,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Rabi       ,Wheat,8727,16682,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Whole Year ,Coriander,155,41,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Whole Year ,Garlic,5,22,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Whole Year ,Onion,229,7969,21.3118839,76.2291992
+Madhya Pradesh,BURHANPUR,Whole Year ,Potato,3,35,21.3118839,76.2291992
+Madhya Pradesh,DEWAS,Rabi       ,Barley,100,100,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Jowar,100,100,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Linseed,2900,1600,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Rapeseed &Mustard,500,400,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Wheat,108900,235300,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Arhar/Tur,9800,6700,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Bajra,100,,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Cotton(lint),29900,5000,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Groundnut,400,500,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Jowar,21500,31400,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Maize,7700,8300,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Rice,800,400,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Sesamum,900,300,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Soyabean,257000,320500,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Gram,90900,97000,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Soyabean,268745,266595,23,76.166667
+Madhya Pradesh,DEWAS,Kharif     ,Sunflower,18,5,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Barley,30,54,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Gram,56511,61347,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Linseed,195,136,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Other  Rabi pulses,2194,1002,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Rapeseed &Mustard,92,75,23,76.166667
+Madhya Pradesh,DEWAS,Rabi       ,Wheat,66389,122072,23,76.166667
+Madhya Pradesh,DEWAS,Whole Year ,Bhindi,76,0,23,76.166667
+Madhya Pradesh,DEWAS,Whole Year ,Brinjal,140,0,23,76.166667
+Madhya Pradesh,GWALIOR,Kharif     ,Soyabean,3082,6597,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Urad,21422,7884,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Rabi       ,Barley,1334,4530,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Rabi       ,Gram,33419,40972,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Rabi       ,Linseed,203,186,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Rabi       ,Other  Rabi pulses,7001,5222,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Rabi       ,Rapeseed &Mustard,45645,47106,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Rabi       ,Wheat,96606,274323,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Beans & Mutter(Vegetable),46,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Bhindi,121,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Brinjal,194,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Cabbage,73,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Cauliflower,78,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Citrus Fruit,13,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Coriander,25,11,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Dry chillies,66,61,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Garlic,8,14,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Mango,13,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Onion,72,763,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Other Fresh Fruits,79,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Other Vegetables,765,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Papaya,3,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Pome Fruit,23,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Potato,960,23515,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Sannhamp,5,17,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Sugarcane,1344,57560,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Sweet potato,7,44,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Tomato,252,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Whole Year ,Water Melon,43,0,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Arhar/Tur,375,224,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Bajra,6981,13685,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Groundnut,461,573,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Jowar,2513,5221,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Maize,233,540,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Rice,14640,30884,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Sesamum,3696,2501,26.2037247,78.1573628
+Madhya Pradesh,GWALIOR,Kharif     ,Soyabean,19941,41610,26.2037247,78.1573628
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Garlic,68,275,22.6001502,77.9266452
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Onion,361,5842,22.6001502,77.9266452
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Potato,412,3849,22.6001502,77.9266452
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Sesamum,57,18,22.6001502,77.9266452
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Sugarcane,984,31620,22.6001502,77.9266452
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Sweet potato,231,1194,22.6001502,77.9266452
+Madhya Pradesh,HOSHANGABAD,Whole Year ,Turmeric,20,28,22.6001502,77.9266452
+Madhya Pradesh,INDORE,Kharif     ,Arhar/Tur,800,500,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Groundnut,200,200,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Jowar,2500,2900,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Maize,10900,11600,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Soyabean,210700,244700,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Rabi       ,Linseed,1600,900,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Rabi       ,Wheat,115700,274200,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Arhar/Tur,700,500,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Groundnut,100,200,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Jowar,1400,1800,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Maize,9200,10800,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Kharif     ,Soyabean,214200,259200,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Rabi       ,Gram,45100,37300,22.7203616,75.8681996
+Madhya Pradesh,INDORE,Rabi       ,Linseed,1300,800,22.7203616,75.8681996
+Madhya Pradesh,KATNI,Rabi       ,Rapeseed &Mustard,2231,908,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Urad,159,26,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Wheat,56221,41377,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Coriander,110,17,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Dry chillies,180,91,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Garlic,38,108,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Onion,445,12188,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Potato,750,5863,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Sesamum,3093,284,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Sugarcane,19,270,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Sweet potato,129,527,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Turmeric,14,11,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Arhar/Tur,4668,1786,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Groundnut,10,6,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Jowar,2279,1145,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Maize,3339,2206,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Rice,87970,37855,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Sannhamp,1,,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Soyabean,680,228,23.8339621,80.392456
+Madhya Pradesh,KATNI,Kharif     ,Urad,2792,271,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Barley,211,187,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Gram,18433,8630,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Khesari,16,6,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Linseed,3960,1305,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Masoor,13668,3887,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Peas & beans (Pulses),4462,1389,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Rapeseed &Mustard,1736,706,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Urad,13,2,23.8339621,80.392456
+Madhya Pradesh,KATNI,Rabi       ,Wheat,44918,39595,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Coriander,102,17,23.8339621,80.392456
+Madhya Pradesh,KATNI,Whole Year ,Garlic,41,65,23.8339621,80.392456
+Maharashtra,JALGAON,Rabi       ,Sunflower,600,300,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Wheat,25900,60200,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Groundnut,2000,3000,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Maize,2000,3100,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Sunflower,100,100,20.8435118,75.5259266
+Maharashtra,JALGAON,Whole Year ,Sugarcane,11200,820000,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Arhar/Tur,18300,11500,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Bajra,17600,18200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Castor seed,500,100,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Cotton(lint),558800,853300,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Groundnut,1100,1000,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Jowar,77500,150200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Maize,70600,188600,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Moong(Green Gram),35900,17900,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Other Kharif pulses,2600,600,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Sesamum,7300,2700,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Soyabean,15000,25600,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Sunflower,400,100,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Urad,45000,22900,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Gram,34400,24900,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Jowar,25700,28300,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Maize,11600,31600,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Safflower,300,100,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Wheat,25300,53000,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Groundnut,1800,2700,20.8435118,75.5259266
+Maharashtra,JALGAON,Whole Year ,Sugarcane,11000,759100,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Arhar/Tur,18400,20400,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Bajra,17700,20800,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Cotton(lint),558800,1504000,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Groundnut,1100,1300,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Jowar,77600,178300,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Maize,70700,270500,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Moong(Green Gram),35900,21700,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Other Kharif pulses,1300,500,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Sesamum,7300,2700,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Soyabean,15000,26500,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Sunflower,400,200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Urad,45100,34400,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Gram,34400,39800,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Jowar,25700,40300,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Maize,11600,26100,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Safflower,300,100,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Wheat,25300,64800,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Groundnut,2000,2300,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Maize,5200,8000,20.8435118,75.5259266
+Maharashtra,JALGAON,Whole Year ,Sugarcane,11700,883200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Arhar/Tur,15600,8200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Bajra,19000,23200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Cotton(lint),471100,768100,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Groundnut,2400,2100,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Jowar,53500,119600,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Maize,94600,235100,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Moong(Green Gram),29100,14500,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Other Kharif pulses,900,200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Sesamum,3400,1200,20.8435118,75.5259266
+Maharashtra,JALGAON,Kharif     ,Soyabean,25000,35400,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Gram,51600,54400,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Jowar,32500,45300,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Maize,50100,188200,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Other  Rabi pulses,200,100,20.8435118,75.5259266
+Maharashtra,JALGAON,Rabi       ,Wheat,49600,81100,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Groundnut,2400,3100,20.8435118,75.5259266
+Maharashtra,JALGAON,Summer     ,Maize,9400,23500,20.8435118,75.5259266
+Maharashtra,JALGAON,Whole Year ,Sugarcane,7900,553600,20.8435118,75.5259266
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,37700,5600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,70300,54800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Gram,12600,3500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,36300,37500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,30300,30000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),46300,7600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Pulses total,1142,214,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,1600,800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Total foodgrain,2542,1451,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,15000,3400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,148600,71000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,1000,1800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,30,1,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,21600,14800,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,200,300,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Cotton(lint),1520,102700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,46100,26000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,80800,64400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),162600,173400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,2300,1200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,36200,45800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,33200,73600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),53200,29500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,600,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,10900,4400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,1100,400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,3800,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,4500,6800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sugarcane,6700,543100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,8500,3500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,15100,9600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,15900,8300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,129900,94500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,3200,700,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,3200,5000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,700,300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,200,,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,34400,17800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,12100,5900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,30400,43200,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,1600,1500,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,500,700,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,600,400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,47200,22200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,84800,61700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),170300,121600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,2300,1600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,37000,39300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,34100,61900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),54500,32300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,800,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,13800,4700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,1300,700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,4000,1300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,4400,5600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,7200,3100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,15300,11300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,17600,10900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,147800,123500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,3400,800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,3700,5800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,1000,400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,24100,10900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,11900,8000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,30200,42200,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,1500,1300,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,500,800,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,600,300,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,12700,960800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,45500,18300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,93200,76200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,800,400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),138200,93600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,2000,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,28000,28600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,41900,39900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),59800,26400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,900,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,19100,6200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,1200,700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,4100,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Small millets,12200,7100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,4700,2300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,5500,2600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,15400,6400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,11900,5900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,149300,104900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,2400,600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,3700,4300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,600,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,20700,9700,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,5200,2500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,24300,60200,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,1400,1400,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,100,200,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,16000,1241700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,42100,23400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,76700,54900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,200,10,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),157200,183400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,1600,700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,24600,30300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,38600,56800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),59000,17000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,1000,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,9000,2100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,600,400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,3900,900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Small millets,6500,4100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,5100,3900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,2400,800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,21500,9400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,15600,10000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,166000,148400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,1700,400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,2500,4600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,400,200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,100,10,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,24300,15200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Small millets,100,0,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,6700,2900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,28400,41600,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,700,900,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,12700,797200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,48000,30300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,86400,83900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),144900,200000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,1200,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,16400,22800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,54400,119300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),54200,31800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,1100,300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,8400,1400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,600,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,4200,1300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Small millets,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,6200,10200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,4800,2300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,19000,16700,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,15700,11900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,154900,143900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,1800,400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,3100,3500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,400,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,22300,14300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,6700,2800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,27600,44000,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,300,500,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,16200,1122000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,47900,19100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,74500,75600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),156900,163700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,1100,800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,16900,22200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,57900,154700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),50400,30300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,1200,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,10400,2100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,other oilseeds,800,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,700,300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,3800,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Small millets,1000,400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,11700,14800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,4200,1500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,16900,10700,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,13100,6800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,154500,79500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,2200,500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,3300,7200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,20000,10700,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,4100,1300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,18400,24000,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Banana,300,17960,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Grapes,89,2388,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Mango,5136,9490,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Onion,200,1104,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,7300,339700,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Tomato,231,735,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,47400,21300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,73300,65100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,1200,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,14700,14600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,57300,105700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),50100,18300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,1100,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Cereals & Millets,500,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,8000,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,other oilseeds,1100,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Rice,500,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,3100,700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,4400,2300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,16500,5800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,14000,7500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,156200,116300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,2300,500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,3600,4000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,900,300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,400,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,19400,17100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Soyabean,15900,15000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,5900,2800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,19500,27400,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,1500,1200,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Cotton(lint),174000,206500,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,4600,356000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,57700,33800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,76200,77300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,400,300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),216100,270400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,1200,900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),35300,16800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,1000,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,3500,900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,30200,35700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sugarcane,10400,723800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,5400,2000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,17500,8800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,18100,12100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,2000,600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,18100,21100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,6300,3000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,23900,34200,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,1500,1800,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,55400,48600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,72800,76600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,400,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),233300,514700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,1200,800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,13700,18200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,63900,139700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),41400,20100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,1100,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,3500,700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,30600,36800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,5200,2800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,18900,9500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,18700,15600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,165300,172100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,2100,600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,3400,7100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,400,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,21100,17300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,8200,3800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,34100,54800,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,700,600,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,400,100,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,494,450,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,517,554,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,5,2,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),2675,6491,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,12,9,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,99,118,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,597,1904,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),429,199,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,26,5,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,347,452,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,42,21,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,217,136,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,145,111,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,1440,1525,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,16,5,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,85,258,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,2,1,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,129,108,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,57,35,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,241,458,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,1,1,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Sunflower,1,1,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,251,19014,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,34500,23200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,31800,21900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,800,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),285900,418300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,600,300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,3300,1900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,56800,89600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),21200,2400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,800,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,37400,23000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sugarcane,20400,1452400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,1500,700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,7800,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,14900,9200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,12700,19700,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,1200,200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,41,78,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,13000,9600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,3600,2000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,17900,29800,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,20400,1452400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,47700,40600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,39100,36400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,100,32,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),290700,503100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,600,500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,4700,4800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,59600,124100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),34400,9400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,400,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,1700,300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,39300,45600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sugarcane,18200,1693700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,3500,1900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,13000,3900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,22400,20400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,145100,149200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,600,100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,1800,5000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,11800,7000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,3000,1800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,21500,40100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,53100,54000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,41300,44300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,100,40,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),303300,776600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,500,400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,4200,5200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,60800,175700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),38500,26300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,900,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,49300,80000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sugarcane,19300,1192700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,1700,1000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,14800,9700,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,26100,19900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,130700,98900,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,600,250,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,2700,8100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,600,200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,9500,6500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,2400,1100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,30900,51600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,52700,27700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,26400,27200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),306900,527100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,300,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,1800,2200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,58700,152900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),25300,12500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,100,20,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,100,50,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,500,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,60300,90000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,800,500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,10400,5300,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,22800,13800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,81800,60100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Linseed,100,,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,1700,5000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,100,,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,2500,1600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,800,400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,20700,29000,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,18700,1306400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,46400,10800,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,26100,14200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),289000,190200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,1600,1700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,62900,111000,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),22200,2400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,100,20,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,100,20,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,62400,43600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,10400,1500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,19300,3100,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,93500,15000,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,2300,3600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Rapeseed &Mustard,200,60,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,1100,200,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,100,40,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,6500,2900,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,200,200,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,12800,802600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,44200,47500,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,16700,20100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),298800,681400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,200,170,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,1600,1900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,73500,196400,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),22200,13700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Niger seed,100,,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,500,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sesamum,300,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,74600,123600,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,100,100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Urad,9500,5800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,26900,23600,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,111400,88800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Maize,7500,16400,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,100,,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Safflower,1100,2370,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Sunflower,100,40,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,9800,13700,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Groundnut,800,500,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,2300,1200,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,13500,972300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Arhar/Tur,47200,11900,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Bajra,23300,7700,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Castor seed,100,,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Cotton(lint),294200,159100,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Groundnut,800,300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Jowar,1100,300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Maize,57600,32200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Moong(Green Gram),45000,7200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Other Kharif pulses,1000,200,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Soyabean,109300,40300,19.9182328,75.8686247
+Maharashtra,JALNA,Kharif     ,Sunflower,100,,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Gram,27100,6800,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Jowar,23100,6500,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Other  Rabi pulses,100,,19.9182328,75.8686247
+Maharashtra,JALNA,Rabi       ,Wheat,1900,1500,19.9182328,75.8686247
+Maharashtra,JALNA,Summer     ,Maize,200,100,19.9182328,75.8686247
+Maharashtra,JALNA,Whole Year ,Sugarcane,21100,1007500,19.9182328,75.8686247
+Maharashtra,KOLHAPUR,Kharif     ,Arhar/Tur,3700,900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Bajra,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Gram,9700,6700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Jowar,16000,233100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Maize,1500,1600,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Moong(Green Gram),1600,1000,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Pulses total,142,65,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Ragi,24700,24300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Rice,1100,246100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Total foodgrain,1707,3067,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Urad,3200,2700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Jowar,10300,8800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Maize,4000,3200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Other  Rabi pulses,330,14,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Wheat,6300,10100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Maize,100,200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Rice,3,8,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Whole Year ,Cotton(lint),1,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Arhar/Tur,3500,1300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Bajra,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Cotton(lint),100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Groundnut,60400,116000,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Jowar,15200,31800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Maize,2300,4600,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Moong(Green Gram),1400,700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Niger seed,2200,900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Other Cereals & Millets,5300,3000,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Other Kharif pulses,6000,2400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Ragi,25400,38400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Rice,106000,289100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Soyabean,63000,132000,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Sugarcane,94700,9030400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Urad,3900,2400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Gram,11300,7800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Jowar,12100,13800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Maize,3100,4500,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Other  Rabi pulses,4500,1900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Other Cereals & Millets,2200,2100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Sunflower,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Wheat,7300,13400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Groundnut,2100,6400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Maize,100,300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Rice,300,700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Sunflower,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Arhar/Tur,2000,800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Bajra,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Castor seed,300,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Cotton(lint),100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Groundnut,61800,89900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Jowar,13100,24300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Maize,2700,3900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Moong(Green Gram),1400,900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Niger seed,2300,600,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Other Kharif pulses,4900,1700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Ragi,25800,42000,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Rice,103200,261900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Small millets,800,700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Soyabean,63600,151800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Urad,4200,3200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Gram,12200,9300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Jowar,14300,16800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Maize,3300,5500,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Other  Rabi pulses,3700,1800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Small millets,1200,300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Sunflower,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Wheat,7600,15200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Groundnut,2300,5000,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Maize,100,200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Rice,300,700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Sunflower,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Whole Year ,Sugarcane,91900,9107900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Arhar/Tur,2000,900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Cotton(lint),100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Groundnut,65700,98900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Jowar,12400,19600,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Maize,2100,1300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Moong(Green Gram),1500,1300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Niger seed,2500,700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Other Kharif pulses,6500,2400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Ragi,24800,34700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Rice,106300,232800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Small millets,4400,2700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Soyabean,62900,121900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Urad,3000,900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Gram,12800,8700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Jowar,11500,15100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Maize,3700,6200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Other  Rabi pulses,3400,1200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Small millets,500,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Sunflower,100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Wheat,8400,15000,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Groundnut,2300,6900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Rice,400,900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Summer     ,Sunflower,200,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Whole Year ,Sugarcane,89700,8158300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Arhar/Tur,2400,800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Cotton(lint),100,100,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Groundnut,66900,132400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Jowar,10600,21900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Maize,1800,3900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Moong(Green Gram),2700,1300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Niger seed,2200,400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Other Kharif pulses,3000,800,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Ragi,23700,45300,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Rice,105900,289400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Small millets,2300,1500,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Soyabean,62200,108900,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Kharif     ,Urad,3100,1400,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Gram,13900,8700,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Jowar,11200,15200,16.7028412,74.2405329
+Maharashtra,KOLHAPUR,Rabi       ,Maize,4700,10100,16.7028412,74.2405329
+Nagaland,KOHIMA,Kharif     ,Rice,17870,28310,25.75,94.166667
+Nagaland,KOHIMA,Kharif     ,Sesamum,200,120,25.75,94.166667
+Nagaland,KOHIMA,Kharif     ,Small millets,680,750,25.75,94.166667
+Nagaland,KOHIMA,Kharif     ,Soyabean,830,1070,25.75,94.166667
+Nagaland,KOHIMA,Kharif     ,Sunflower,220,170,25.75,94.166667
+Nagaland,KOHIMA,Rabi       ,Barley,100,150,25.75,94.166667
+Nagaland,KOHIMA,Rabi       ,Gram,90,70,25.75,94.166667
+Nagaland,KOHIMA,Rabi       ,Linseed,620,230,25.75,94.166667
+Nagaland,KOHIMA,Rabi       ,Other  Rabi pulses,280,380,25.75,94.166667
+Nagaland,KOHIMA,Rabi       ,Peas & beans (Pulses),620,640,25.75,94.166667
+Nagaland,KOHIMA,Rabi       ,Rapeseed &Mustard,750,600,25.75,94.166667
+Nagaland,MON,Kharif     ,Sunflower,30,20,26.75,94.833333
+Nagaland,MON,Kharif     ,Sweet potato,170,1450,26.75,94.833333
+Nagaland,MON,Kharif     ,Tapioca,140,2830,26.75,94.833333
+Nagaland,MON,Rabi       ,Lentil,210,170,26.75,94.833333
+Nagaland,MON,Rabi       ,Linseed,550,450,26.75,94.833333
+Nagaland,MON,Rabi       ,Maize,1040,2050,26.75,94.833333
+Nagaland,MON,Rabi       ,Oilseeds total,4180,4120,26.75,94.833333
+Nagaland,MON,Rabi       ,Other  Rabi pulses,530,670,26.75,94.833333
+Nagaland,MON,Rabi       ,Peas & beans (Pulses),980,1060,26.75,94.833333
+Nagaland,MON,Rabi       ,Potato,490,4990,26.75,94.833333
+Nagaland,MON,Rabi       ,Rapeseed &Mustard,3630,3670,26.75,94.833333
+Nagaland,MON,Rabi       ,Rice,1270,3400,26.75,94.833333
+Nagaland,MON,Rabi       ,Wheat,410,750,26.75,94.833333
+Nagaland,PEREN,Kharif     ,Arhar/Tur,230,200,25.4790771,93.7256366
+Nagaland,PEREN,Kharif     ,Dry chillies,200,240,25.4790771,93.7256366
+Nagaland,PEREN,Kharif     ,Dry ginger,140,1350,25.4790771,93.7256366
+Nagaland,PEREN,Kharif     ,Groundnut,50,60,25.4790771,93.7256366
+Nagaland,PEREN,Kharif     ,Maize,3010,5490,25.4790771,93.7256366
+Nagaland,PEREN,Kharif     ,Moong(Green Gram),70,40,25.4790771,93.7256366
+Nagaland,PEREN,Kharif     ,Other Kharif pulses,150,130,25.4790771,93.7256366
+Nagaland,TUENSANG,Kharif     ,Sunflower,70,60,26.1685055,94.8581982
+Nagaland,TUENSANG,Kharif     ,Sweet potato,170,1450,26.1685055,94.8581982
+Nagaland,TUENSANG,Kharif     ,Tapioca,210,4250,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Lentil,210,170,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Linseed,360,290,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Oilseeds total,2500,2450,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Other  Rabi pulses,3270,4150,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Peas & beans (Pulses),830,910,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Potato,950,9520,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Rapeseed &Mustard,2140,2160,26.1685055,94.8581982
+Nagaland,TUENSANG,Rabi       ,Wheat,320,580,26.1685055,94.8581982
+Nagaland,WOKHA,Kharif     ,Bajra,250,170,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Jowar,100,70,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Maize,4300,4300,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Rice,23670,30460,26.166667,94.25
+Nagaland,WOKHA,Rabi       ,Rice,50,70,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Jute,12000,16000,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Maize,4000,5000,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Rice,23000,34000,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Arhar/Tur,70,50,26.166667,94.25
+Nagaland,WOKHA,Kharif     ,Bajra,270,230,26.166667,94.25
+Nagaland,ZUNHEBOTO,Kharif     ,Small millets,1530,1150,26,94.5
+Nagaland,ZUNHEBOTO,Rabi       ,Oilseeds total,2390,2350,26,94.5
+Nagaland,ZUNHEBOTO,Rabi       ,Other  Rabi pulses,430,540,26,94.5
+Nagaland,ZUNHEBOTO,Rabi       ,Peas & beans (Pulses),600,660,26,94.5
+Nagaland,ZUNHEBOTO,Rabi       ,Potato,230,2340,26,94.5
+Nagaland,ZUNHEBOTO,Rabi       ,Rapeseed &Mustard,2110,2140,26,94.5
+Nagaland,ZUNHEBOTO,Rabi       ,Wheat,290,530,26,94.5
+Odisha,ANUGUL,Autumn     ,Arhar/Tur,3555,739,20.8411255,85.0804007
+Odisha,ANUGUL,Autumn     ,Groundnut,4086,4037,20.8411255,85.0804007
+Odisha,ANUGUL,Autumn     ,Maize,948,675,20.8411255,85.0804007
+Odisha,ANUGUL,Autumn     ,Paddy,21779,23578,20.8411255,85.0804007
+Odisha,ANUGUL,Autumn     ,Ragi,46,25,20.8411255,85.0804007
+Odisha,ANUGUL,Autumn     ,Sesamum,1307,385,20.8411255,85.0804007
+Odisha,ANUGUL,Autumn     ,Urad,2878,547,20.8411255,85.0804007
+Odisha,ANUGUL,Rabi       ,Wheat,94,67,20.8411255,85.0804007
+Odisha,ANUGUL,Summer     ,Arhar/Tur,469,115,20.8411255,85.0804007
+Odisha,ANUGUL,Summer     ,Groundnut,1022,1216,20.8411255,85.0804007
+Odisha,ANUGUL,Summer     ,Maize,17,14,20.8411255,85.0804007
+Odisha,ANUGUL,Summer     ,Paddy,4012,7184,20.8411255,85.0804007
+Odisha,ANUGUL,Summer     ,Sesamum,790,187,20.8411255,85.0804007
+Puducherry,PONDICHERRY,Summer     ,Rice,3761,12938,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Summer     ,Sesamum,177,146,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Summer     ,Urad,24,24,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Whole Year ,Coconut ,1047,11869000,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Bajra,6,11,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Banana,237,7079,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Brinjal,28,535,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Cashewnut,138,41,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Dry chillies,20,18,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Groundnut,8,24,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Jowar,2,3,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Mango,146,2947,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Onion,1,9,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Ragi,11,26,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Rice,2942,10041,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Sesamum,3,2,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Sugarcane,1921,316965,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Sweet potato,4,60,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Tapioca,188,4782,11.9340568,79.8306447
+Puducherry,PONDICHERRY,Kharif     ,Urad,9,7,11.9340568,79.8306447
+Puducherry,YANAM,Summer     ,Moong(Green Gram),56,42,16.7333666,82.2145164
+Puducherry,YANAM,Whole Year ,Coconut ,284,3408000,16.7333666,82.2145164
+Punjab,AMRITSAR,Kharif     ,Arhar/Tur,1800,1400,31.6343083,74.8736788
+Punjab,AMRITSAR,Kharif     ,Bajra,1000,1000,31.6343083,74.8736788
+Punjab,AMRITSAR,Kharif     ,Maize,7000,14000,31.6343083,74.8736788
+Punjab,AMRITSAR,Kharif     ,Rice,292000,879000,31.6343083,74.8736788
+Punjab,BATHINDA,Kharif     ,Moong(Green Gram),3000,3000,30.1791154,75.0471016
+Punjab,BATHINDA,Kharif     ,Rice,119000,529000,30.1791154,75.0471016
+Punjab,BATHINDA,Rabi       ,Barley,1000,3400,30.1791154,75.0471016
+Punjab,BATHINDA,Rabi       ,Gram,2000,2100,30.1791154,75.0471016
+Punjab,BATHINDA,Rabi       ,Rapeseed &Mustard,2000,2700,30.1791154,75.0471016
+Punjab,BATHINDA,Rabi       ,Wheat,254000,1218000,30.1791154,75.0471016
+Punjab,FARIDKOT,Kharif     ,Groundnut,1000,1000,30.6009251,74.7947742
+Punjab,FARIDKOT,Kharif     ,Rice,56000,214000,30.6009251,74.7947742
+Punjab,FARIDKOT,Rabi       ,Barley,1000,3000,30.6009251,74.7947742
+Punjab,FARIDKOT,Rabi       ,Gram,200,100,30.6009251,74.7947742
+Punjab,FARIDKOT,Rabi       ,Rapeseed &Mustard,1000,1000,30.6009251,74.7947742
+Punjab,FARIDKOT,Rabi       ,Wheat,109000,451000,30.6009251,74.7947742
+Punjab,FARIDKOT,Whole Year ,Cotton(lint),48000,35000,30.6009251,74.7947742
+Punjab,FARIDKOT,Whole Year ,Moong(Green Gram),4300,2000,30.6009251,74.7947742
+Punjab,FARIDKOT,Whole Year ,Sugarcane,2000,130000,30.6009251,74.7947742
+Punjab,HOSHIARPUR,Kharif     ,Urad,1000,300,31.6085743,75.8464425
+Punjab,HOSHIARPUR,Rabi       ,Masoor,1000,500,31.6085743,75.8464425
+Punjab,HOSHIARPUR,Rabi       ,Peas & beans (Pulses),2000,2600,31.6085743,75.8464425
+Punjab,HOSHIARPUR,Rabi       ,Rapeseed &Mustard,4000,4300,31.6085743,75.8464425
+Punjab,HOSHIARPUR,Rabi       ,Wheat,150000,540000,31.6085743,75.8464425
+Punjab,HOSHIARPUR,Whole Year ,Sugarcane,22000,1515000,31.6085743,75.8464425
+Punjab,JALANDHAR,Kharif     ,Arhar/Tur,600,300,31.2920107,75.5680577
+Punjab,JALANDHAR,Kharif     ,Maize,15000,37000,31.2920107,75.5680577
+Punjab,KAPURTHALA,Rabi       ,Rapeseed &Mustard,1000,2000,31.385241,75.3055227
+Punjab,LUDHIANA,Kharif     ,Arhar/Tur,2000,1600,30.9090157,75.851601
+Punjab,LUDHIANA,Kharif     ,Groundnut,100,100,30.9090157,75.851601
+Punjab,LUDHIANA,Kharif     ,Maize,2000,6000,30.9090157,75.851601
+Punjab,LUDHIANA,Kharif     ,Moong(Green Gram),2100,1600,30.9090157,75.851601
+Punjab,LUDHIANA,Kharif     ,Rice,400000,1144000,30.9090157,75.851601
+Punjab,LUDHIANA,Rabi       ,Barley,2000,7000,30.9090157,75.851601
+Punjab,LUDHIANA,Rabi       ,Gram,100,100,30.9090157,75.851601
+Punjab,LUDHIANA,Rabi       ,Rapeseed &Mustard,2000,3000,30.9090157,75.851601
+Punjab,LUDHIANA,Rabi       ,Wheat,258000,1246000,30.9090157,75.851601
+Punjab,LUDHIANA,Whole Year ,Sugarcane,3000,140000,30.9090157,75.851601
+Punjab,MUKTSAR,Kharif     ,Cotton(lint),88000,298000,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Guar seed,1900,2200,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Moong(Green Gram),300,300,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Rice,118000,471000,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Sesamum,100,,30.2831401,74.5229972
+Punjab,MUKTSAR,Rabi       ,Barley,1000,4000,30.2831401,74.5229972
+Punjab,MUKTSAR,Rabi       ,Gram,100,100,30.2831401,74.5229972
+Punjab,MUKTSAR,Rabi       ,Rapeseed &Mustard,1000,1300,30.2831401,74.5229972
+Punjab,MUKTSAR,Rabi       ,Wheat,209000,996000,30.2831401,74.5229972
+Punjab,MUKTSAR,Whole Year ,Guar seed,1800,2100,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Bajra,100,100,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Cotton(lint),82000,264000,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Guar seed,4200,2800,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Moong(Green Gram),3000,3000,30.2831401,74.5229972
+Punjab,MUKTSAR,Kharif     ,Rice,115000,457000,30.2831401,74.5229972
+Punjab,PATIALA,Kharif     ,Maize,1000,5000,30.2090874,76.3398721
+Punjab,PATIALA,Kharif     ,Rice,230000,904000,30.2090874,76.3398721
+Punjab,PATIALA,Rabi       ,Barley,1000,4100,30.2090874,76.3398721
+Punjab,PATIALA,Rabi       ,Gram,1000,1100,30.2090874,76.3398721
+Punjab,PATIALA,Rabi       ,Peas & beans (Pulses),4000,4600,30.2090874,76.3398721
+Punjab,PATIALA,Rabi       ,Rapeseed &Mustard,1000,1700,30.2090874,76.3398721
+Punjab,PATIALA,Rabi       ,Wheat,233000,1024000,30.2090874,76.3398721
+Punjab,PATIALA,Whole Year ,Sugarcane,3000,272000,30.2090874,76.3398721
+Punjab,RUPNAGAR,Kharif     ,Arhar/Tur,1300,1000,31.0916808,76.5272674
+Punjab,RUPNAGAR,Kharif     ,Maize,28000,49000,31.0916808,76.5272674
+Punjab,TARN TARAN,Kharif     ,Cotton(lint),1000,3000,31.3212453,74.8413063
+Punjab,TARN TARAN,Kharif     ,Maize,1000,4000,31.3212453,74.8413063
+Punjab,TARN TARAN,Kharif     ,Moong(Green Gram),12000,10000,31.3212453,74.8413063
+Punjab,TARN TARAN,Kharif     ,Rice,177000,594000,31.3212453,74.8413063
+Punjab,TARN TARAN,Kharif     ,Sesamum,5000,2000,31.3212453,74.8413063
+Punjab,TARN TARAN,Rabi       ,Masoor,1000,400,31.3212453,74.8413063
+Punjab,TARN TARAN,Rabi       ,Peas & beans (Pulses),1000,1700,31.3212453,74.8413063
+Punjab,TARN TARAN,Rabi       ,Wheat,183000,931000,31.3212453,74.8413063
+Punjab,TARN TARAN,Whole Year ,Sugarcane,1000,75000,31.3212453,74.8413063
+Punjab,TARN TARAN,Kharif     ,Arhar/Tur,3000,1700,31.3212453,74.8413063
+Rajasthan,JALORE,Kharif     ,Bajra,401931,505895,25.3476006,72.6260916
+Rajasthan,JALORE,Kharif     ,Castor seed,24877,40174,25.3476006,72.6260916
+Rajasthan,JALORE,Kharif     ,Cotton(lint),231,476,25.3476006,72.6260916
+Rajasthan,JALORE,Kharif     ,Groundnut,107,168,25.3476006,72.6260916
+Rajasthan,JALORE,Kharif     ,Jowar,4339,3113,25.3476006,72.6260916
+Rajasthan,JALORE,Kharif     ,Maize,56,104,25.3476006,72.6260916
+Rajasthan,JODHPUR,Whole Year ,Other Vegetables,2680,0,26.2967719,73.0351433
+Rajasthan,JODHPUR,Whole Year ,Pome Fruit,12,0,26.2967719,73.0351433
+Rajasthan,JODHPUR,Whole Year ,Sweet potato,5,5,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Bajra,564280,166322,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Castor seed,9079,7234,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Cotton(lint),13148,34852,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Groundnut,12318,23241,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Jowar,37606,20136,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Maize,4,5,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Moong(Green Gram),85335,21790,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Moth,212637,58668,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Other Kharif pulses,68,21,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Sesamum,38145,12291,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Soyabean,3,4,26.2967719,73.0351433
+Rajasthan,JODHPUR,Kharif     ,Sunflower,4,10,26.2967719,73.0351433
+Rajasthan,JODHPUR,Rabi       ,Barley,205,488,26.2967719,73.0351433
+Rajasthan,JODHPUR,Rabi       ,Gram,309,231,26.2967719,73.0351433
+Rajasthan,JODHPUR,Rabi       ,Other  Rabi pulses,83,66,26.2967719,73.0351433
+Rajasthan,JODHPUR,Rabi       ,Rapeseed &Mustard,66415,95357,26.2967719,73.0351433
+Rajasthan,SIROHI,Whole Year ,Dry chillies,206,103,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Garlic,13,13,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Guar seed,11927,9708,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Onion,37,56,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Potato,107,330,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Sannhamp,7,28,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Sugarcane,31,1888,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Sweet potato,8,8,24.8114047,72.8300257
+Rajasthan,SIROHI,Whole Year ,Tobacco,14,42,24.8114047,72.8300257
+Tamil Nadu,CUDDALORE,Whole Year ,Coriander,34,12,11.7426938,79.7503064
+Tamil Nadu,CUDDALORE,Whole Year ,Dry chillies,128,35,11.7426938,79.7503064
+Tamil Nadu,CUDDALORE,Whole Year ,Small millets,1568,3018,11.7426938,79.7503064
+Tamil Nadu,CUDDALORE,Whole Year ,Sugarcane,30304,3286001,11.7426938,79.7503064
+Tamil Nadu,CUDDALORE,Whole Year ,Sweet potato,30,633,11.7426938,79.7503064
+Tamil Nadu,CUDDALORE,Whole Year ,Tapioca,3252,124710,11.7426938,79.7503064
+Tamil Nadu,CUDDALORE,Whole Year ,Turmeric,355,1304,11.7426938,79.7503064
+Tamil Nadu,DHARMAPURI,Kharif     ,Banana,1354,53114,12.0968048,78.193043
+Tamil Nadu,DHARMAPURI,Kharif     ,Horse-gram,39102,21390,12.0968048,78.193043
+Tamil Nadu,DHARMAPURI,Kharif     ,Onion,1132,9152,12.0968048,78.193043
+Tamil Nadu,DHARMAPURI,Kharif     ,Sesamum,729,370,12.0968048,78.193043
+Tamil Nadu,DHARMAPURI,Whole Year ,Arhar/Tur,9409,6240,12.0968048,78.193043
+Tamil Nadu,DHARMAPURI,Whole Year ,Bajra,2669,4600,12.0968048,78.193043
+Tamil Nadu,DHARMAPURI,Whole Year ,Banana,1871,140280,12.0968048,78.193043
+Tamil Nadu,DHARMAPURI,Whole Year ,Cashewnut,19,10,12.0968048,78.193043
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Dry ginger,10,110,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Sugarcane,7,788,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Tapioca,2712,115400,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Urad,672,367,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Arhar/Tur,3,2,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Groundnut,31,59,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Rice,12412,57882,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Urad,403,170,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Sugarcane,1,98,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Groundnut,15,33,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Rice,13619,66703,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Kharif     ,Urad,167,140,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Rabi       ,Groundnut,13,47,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Rabi       ,Urad,1222,1043,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Arecanut,337,272,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Arhar/Tur,9,9,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Banana,6542,198178,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Black pepper,226,35,8.0879641,77.5467414
+Tamil Nadu,KANNIYAKUMARI,Whole Year ,Cardamom,12,1,8.0879641,77.5467414
+Tamil Nadu,KRISHNAGIRI,Whole Year ,Small millets,1405,1180,12.5188835,78.2206536
+Tamil Nadu,KRISHNAGIRI,Whole Year ,Sugarcane,840,81194,12.5188835,78.2206536
+Tamil Nadu,KRISHNAGIRI,Whole Year ,Tapioca,429,9089,12.5188835,78.2206536
+Tamil Nadu,KRISHNAGIRI,Whole Year ,Turmeric,1188,3899,12.5188835,78.2206536
+Tamil Nadu,MADURAI,Kharif     ,Banana,1769,54752,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Kharif     ,Horse-gram,117,60,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Kharif     ,Onion,1109,7011,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Kharif     ,Sesamum,2403,550,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Kharif     ,Small millets,1105,1150,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Whole Year ,Arhar/Tur,1498,750,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Whole Year ,Bajra,1020,1290,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Whole Year ,Banana,2077,139430,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Whole Year ,Cashewnut,232,140,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Whole Year ,Coriander,253,120,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Whole Year ,Cotton(lint),13061,8580,9.9261153,78.1140983
+Tamil Nadu,MADURAI,Whole Year ,Dry chillies,505,370,9.9261153,78.1140983
+Tamil Nadu,TUTICORIN,Rabi       ,Ragi,181,718,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Rabi       ,Sunflower,2502,1525,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Rabi       ,Urad,25824,4354,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Arhar/Tur,132,128,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Banana,9142,403882,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Cashewnut,722,206,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Coconut ,5848,55800000,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Coriander,2237,159,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Dry chillies,9951,906,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Gram,15,10,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Small millets,597,339,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Sugarcane,204,21129,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Sweet potato,4,84,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Tapioca,18,539,8.8052602,78.1452745
+Tamil Nadu,TUTICORIN,Whole Year ,Turmeric,4,15,8.8052602,78.1452745
+Tamil Nadu,VELLORE,Kharif     ,Banana,4121,137719,12.7948109,79.0006411
+Tamil Nadu,VELLORE,Kharif     ,Horse-gram,3234,850,12.7948109,79.0006411
+Tamil Nadu,VELLORE,Kharif     ,Onion,17,137,12.7948109,79.0006411
+Tamil Nadu,VELLORE,Kharif     ,Sesamum,666,450,12.7948109,79.0006411
+Tamil Nadu,VELLORE,Kharif     ,Small millets,4649,4080,12.7948109,79.0006411
+Tamil Nadu,VELLORE,Whole Year ,Arhar/Tur,9822,3930,12.7948109,79.0006411
+Telangana ,ADILABAD,Kharif     ,Sesamum,574,170,19.5,78.5
+Telangana ,ADILABAD,Kharif     ,Soyabean,58983,83402,19.5,78.5
+Telangana ,ADILABAD,Kharif     ,Urad,8221,5483,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Arhar/Tur,591,354,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Bajra,524,328,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Cowpea(Lobia),22,18,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Dry chillies,265,863,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Gram,6232,6861,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Groundnut,1007,1603,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Horse-gram,29,4,19.5,78.5
+Telangana ,ADILABAD,Rabi       ,Jowar,10273,10026,19.5,78.5
+Telangana ,KARIMNAGAR,Kharif     ,Moong(Green Gram),35716,14036,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Kharif     ,Onion,75,840,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Kharif     ,Other Kharif pulses,1409,464,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Kharif     ,other misc. pulses,698,314,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Kharif     ,Rice,162729,508854,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Kharif     ,Sesamum,415,64,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Kharif     ,Sunflower,889,1352,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Kharif     ,Urad,12,4,18.4346438,79.1322648
+Telangana ,KARIMNAGAR,Rabi       ,Arhar/Tur,548,196,18.4346438,79.1322648
+Telangana ,MAHBUBNAGAR,Kharif     ,Sesamum,1508,232,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Kharif     ,Small millets,2720,2515,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Kharif     ,Sunflower,18468,10902,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Kharif     ,Urad,1796,641,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Bajra,594,364,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Dry chillies,1848,4273,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Gram,4941,3548,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Groundnut,38927,47686,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Horse-gram,2728,535,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Jowar,50338,35237,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Maize,644,2958,16.7434538,77.9923191
+Telangana ,MAHBUBNAGAR,Rabi       ,Moong(Green Gram),13,4,16.7434538,77.9923191
+Telangana ,RANGAREDDI,Rabi       ,other oilseeds,7,9,17.27883,78.16844
+Telangana ,RANGAREDDI,Rabi       ,Ragi,216,280,17.27883,78.16844
+Telangana ,RANGAREDDI,Rabi       ,Rice,9642,22832,17.27883,78.16844
+Telangana ,RANGAREDDI,Rabi       ,Safflower,3518,1878,17.27883,78.16844
+Telangana ,RANGAREDDI,Rabi       ,Wheat,1631,1039,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Banana,204,4978,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Beans & Mutter(Vegetable),902,1175,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Bhindi,1058,3100,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Bottle Gourd,215,0,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Brinjal,2103,6185,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Cabbage,184,0,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Cashewnut,3,1,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Citrus Fruit,116,524,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Coconut ,13,148564,17.27883,78.16844
+Telangana ,RANGAREDDI,Whole Year ,Coriander,343,143,17.27883,78.16844
+Tripura,WEST TRIPURA,Kharif     ,Mesta,82,682,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Moong(Green Gram),145,77,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Other Kharif pulses,411,273,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Rice,101031,282578,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Sesamum,497,332,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Urad,238,148,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Gram,36,29,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Groundnut,57,80,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Masoor,68,52,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Moong(Green Gram),59,37,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Other  Rabi pulses,336,269,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Peas & beans (Pulses),283,212,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Rapeseed &Mustard,642,496,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Urad,104,55,23.916667,91.5
+Tripura,WEST TRIPURA,Rabi       ,Wheat,53,98,23.916667,91.5
+Tripura,WEST TRIPURA,Whole Year ,Sugarcane,108,5372,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Arhar/Tur,132,96,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Cotton(lint),38,49,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Groundnut,60,60,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Jute,44,321,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Maize,312,440,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Mesta,19,153,23.916667,91.5
+Tripura,WEST TRIPURA,Kharif     ,Moong(Green Gram),11,6,23.916667,91.5
+Uttar Pradesh,AGRA,Kharif     ,Sesamum,2169,427,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Kharif     ,Sugarcane,163,8297,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Kharif     ,Sweet potato,181,2229,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Kharif     ,Urad,275,185,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Barley,6143,20480,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Gram,1463,2845,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Masoor,554,488,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Onion,58,1068,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Peas & beans (Pulses),115,274,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Potato,63851,1690072,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Rapeseed &Mustard,51457,90358,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Rabi       ,Wheat,138092,511421,27.1752554,78.0098161
+Uttar Pradesh,AGRA,Summer     ,Maize,45,66,27.1752554,78.0098161
+Uttar Pradesh,ALLAHABAD,Rabi       ,Rapeseed &Mustard,1667,1292,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Rabi       ,Sunflower,34,42,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Rabi       ,Wheat,203402,391346,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Summer     ,Moong(Green Gram),3936,1685,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Summer     ,Urad,2751,824,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Whole Year ,Onion,369,4481,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Whole Year ,Potato,13093,342644,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Whole Year ,Sannhamp,263,96,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Whole Year ,Sugarcane,1437,64568,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Whole Year ,Tobacco,2,12,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Kharif     ,Arhar/Tur,13791,22809,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Kharif     ,Bajra,27470,41093,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Kharif     ,Castor seed,49,31,25.4381302,81.8338005
+Uttar Pradesh,ALLAHABAD,Kharif     ,Jowar,9966,8451,25.4381302,81.8338005
+Uttar Pradesh,AMETHI,Rabi       ,Turmeric,1,3,26.3473831,81.6238783
+Uttar Pradesh,AMETHI,Rabi       ,Wheat,127180,302688,26.3473831,81.6238783
+Uttar Pradesh,AMETHI,Summer     ,Maize,75,138,26.3473831,81.6238783
+Uttar Pradesh,AMETHI,Summer     ,Moong(Green Gram),571,236,26.3473831,81.6238783
+Uttar Pradesh,AMETHI,Summer     ,Onion,476,5917,26.3473831,81.6238783
+Uttar Pradesh,AMETHI,Summer     ,Sunflower,135,216,26.3473831,81.6238783
+Uttar Pradesh,AMETHI,Summer     ,Urad,4732,2127,26.3473831,81.6238783
+Uttar Pradesh,AMETHI,Kharif     ,Arhar/Tur,3234,1560,26.3473831,81.6238783
+Uttar Pradesh,AURAIYA,Kharif     ,Rice,48622,89219,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Kharif     ,Sesamum,18,4,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Kharif     ,Soyabean,1,1,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Kharif     ,Urad,1602,885,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Barley,4246,9338,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Gram,6344,8776,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Linseed,25,9,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Maize,45,73,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Masoor,99,62,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Moong(Green Gram),681,366,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Peas & beans (Pulses),2331,4126,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Rapeseed &Mustard,14994,18270,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Urad,537,267,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Rabi       ,Wheat,88940,298990,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Whole Year ,Potato,2857,64642,26.6557339,79.515047
+Uttar Pradesh,AURAIYA,Whole Year ,Sugarcane,1296,56248,26.6557339,79.515047
+Uttar Pradesh,BAGHPAT,Kharif     ,Jowar,33,20,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Kharif     ,Maize,2291,4047,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Kharif     ,Moong(Green Gram),2,1,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Kharif     ,Rice,4591,9200,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Kharif     ,Small millets,2,1,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Kharif     ,Urad,177,48,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Rabi       ,Barley,216,657,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Rabi       ,Gram,296,261,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Rabi       ,Masoor,305,171,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Rabi       ,Peas & beans (Pulses),167,171,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Rabi       ,Rapeseed &Mustard,1254,1107,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Rabi       ,Sunflower,1,1,28.9724041,77.3331528
+Uttar Pradesh,BAGHPAT,Rabi       ,Wheat,51002,169326,28.9724041,77.3331528
+Uttar Pradesh,BANDA,Rabi       ,Masoor,39800,33711,27.1303344,80.859666
+Uttar Pradesh,BANDA,Rabi       ,Peas & beans (Pulses),1389,1455,27.1303344,80.859666
+Uttar Pradesh,BANDA,Rabi       ,Rapeseed &Mustard,2274,1232,27.1303344,80.859666
+Uttar Pradesh,BANDA,Rabi       ,Sunflower,8,10,27.1303344,80.859666
+Uttar Pradesh,BANDA,Rabi       ,Wheat,146137,232006,27.1303344,80.859666
+Uttar Pradesh,BANDA,Summer     ,Moong(Green Gram),5,3,27.1303344,80.859666
+Uttar Pradesh,BANDA,Whole Year ,Onion,168,2040,27.1303344,80.859666
+Uttar Pradesh,BANDA,Whole Year ,Potato,132,3012,27.1303344,80.859666
+Uttar Pradesh,BANDA,Whole Year ,Sannhamp,707,257,27.1303344,80.859666
+Uttar Pradesh,BANDA,Whole Year ,Sugarcane,691,28917,27.1303344,80.859666
+Uttar Pradesh,BANDA,Whole Year ,Tobacco,5,30,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Arhar/Tur,14822,31556,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Bajra,2991,1294,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Castor seed,7,4,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Groundnut,1026,638,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Jowar,40988,35121,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Maize,3,2,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Moong(Green Gram),1449,354,27.1303344,80.859666
+Uttar Pradesh,BANDA,Kharif     ,Rice,64840,86354,27.1303344,80.859666
+Uttar Pradesh,BUDAUN,Rabi       ,Peas & beans (Pulses),1078,1057,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Rabi       ,Potato,15112,301273,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Rabi       ,Rapeseed &Mustard,23984,29554,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Rabi       ,Tobacco,1278,5410,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Rabi       ,Turmeric,137,389,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Rabi       ,Wheat,255586,538009,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Summer     ,Banana,6,271,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Summer     ,Maize,4230,7521,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Summer     ,Moong(Green Gram),12,8,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Summer     ,Onion,122,1845,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Summer     ,Rice,33,68,28.0683116,79.0460731
+Uttar Pradesh,BUDAUN,Summer     ,Urad,13,7,28.0683116,79.0460731
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Arhar/Tur,11889,8361,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Bajra,10192,14274,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Groundnut,7,6,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Jowar,487,386,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Maize,100209,214748,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Moong(Green Gram),444,196,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Oilseeds total,12325,11454,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Onion,591,5843,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Rice,14777,42533,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Sesamum,33,5,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Total foodgrain,333907,950194,28.3888609,77.9747977
+Uttar Pradesh,BULANDSHAHR,Kharif     ,Urad,550,228,28.3888609,77.9747977
+Uttar Pradesh,DEORIA,Kharif     ,Soyabean,1,1,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Kharif     ,Urad,81,22,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Barley,1537,3582,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Gram,797,640,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Linseed,4,1,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Masoor,1326,920,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Peas & beans (Pulses),2767,2922,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Rapeseed &Mustard,2080,1417,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Sunflower,3,4,26.4238472,83.7627317
+Uttar Pradesh,DEORIA,Rabi       ,Wheat,137653,326272,26.4238472,83.7627317
+Uttar Pradesh,MORADABAD,Kharif     ,Arhar/Tur,799,659,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Bajra,43206,56157,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Groundnut,1,1,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Jowar,505,627,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Maize,1442,2234,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Moong(Green Gram),192,45,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Moth,19,7,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Rice,122354,291505,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Sesamum,364,47,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Soyabean,1,1,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Sunflower,5,8,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Kharif     ,Urad,13465,9776,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Rabi       ,Barley,314,743,28.8638424,78.8057783
+Uttar Pradesh,MORADABAD,Rabi       ,Gram,36,38,28.8638424,78.8057783
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Ragi,5841,9588,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Rice,8495,11408,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Sesamum,27,9,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Small millets,3065,4820,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Soyabean,51,42,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Urad,245,207,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Rabi       ,Barley,1114,1611,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Rabi       ,Masoor,43,37,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Rabi       ,Peas & beans (Pulses),14,12,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Rabi       ,Potato,57,526,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Rabi       ,Rapeseed &Mustard,325,154,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Rabi       ,Wheat,9929,16337,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Whole Year ,Garlic,44,64,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Whole Year ,Onion,31,172,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Arhar/Tur,71,60,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Horse-gram,162,103,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Maize,205,363,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Other Kharif pulses,124,120,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Potato,253,1509,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Pulses total,591,424,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Ragi,6388,9627,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Rice,8944,11675,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Sesamum,3,1,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Small millets,2949,4732,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Soyabean,65,54,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Total foodgrain,19089,26832,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Kharif     ,Urad,246,152,30.25,79.25
+Uttarakhand,RUDRA PRAYAG,Rabi       ,Barley,1354,1604,30.25,79.25
+West Bengal,BARDHAMAN,Rabi       ,Urad,16,10,23.244051,87.8689422
+West Bengal,BARDHAMAN,Rabi       ,Wheat,5196,12716,23.244051,87.8689422
+West Bengal,BARDHAMAN,Summer     ,Groundnut,303,382,23.244051,87.8689422
+West Bengal,BARDHAMAN,Summer     ,Moong(Green Gram),87,47,23.244051,87.8689422
+West Bengal,BARDHAMAN,Summer     ,Rice,215469,699200,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Arecanut,130,329,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Coconut ,1657,31814.4,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Dry chillies,2520,3349,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Potato,45513,1235003,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Sannhamp,100,676,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Sesamum,11481,9722,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Sugarcane,709,48627,23.244051,87.8689422
+West Bengal,BARDHAMAN,Whole Year ,Turmeric,227,419,23.244051,87.8689422
+West Bengal,BARDHAMAN,Winter     ,Rice,421645,1257087,23.244051,87.8689422
+West Bengal,BARDHAMAN,Autumn     ,Rice,17119,52128,23.244051,87.8689422
+West Bengal,BARDHAMAN,Kharif     ,Dry ginger,128,226,23.244051,87.8689422
+West Bengal,BARDHAMAN,Kharif     ,Jute,12459,222721,23.244051,87.8689422
+West Bengal,BARDHAMAN,Kharif     ,Maize,147,254,23.244051,87.8689422
+West Bengal,BARDHAMAN,Kharif     ,Mesta,88,46,23.244051,87.8689422
+West Bengal,BARDHAMAN,Kharif     ,Soyabean,3,2,23.244051,87.8689422
+West Bengal,BARDHAMAN,Kharif     ,Sunflower,59,63,23.244051,87.8689422
+West Bengal,MURSHIDABAD,Summer     ,Rice,126504,457147,24.1745993,88.2721335
+West Bengal,MURSHIDABAD,Summer     ,Sesamum,20433,18620,24.1745993,88.2721335
+West Bengal,MURSHIDABAD,Whole Year ,Sugarcane,4278,312958,24.1745993,88.2721335
+West Bengal,MURSHIDABAD,Winter     ,Rice,222718,686341,24.1745993,88.2721335
+West Bengal,MURSHIDABAD,Winter     ,Sesamum,80,50,24.1745993,88.2721335
+West Bengal,NADIA,Autumn     ,Rice,55567,98910,23.4845412,88.5567631
+West Bengal,NADIA,Kharif     ,Jute,134358,1721760,23.4845412,88.5567631
+West Bengal,NADIA,Kharif     ,Mesta,512,5110,23.4845412,88.5567631
+West Bengal,NADIA,Kharif     ,Urad,9866,5540,23.4845412,88.5567631
+West Bengal,NADIA,Rabi       ,Gram,8547,4050,23.4845412,88.5567631
+West Bengal,NADIA,Rabi       ,Khesari,1757,920,23.4845412,88.5567631
+West Bengal,NADIA,Summer     ,Moong(Green Gram),2129,1288,23.4845412,88.5567631
+West Bengal,NADIA,Summer     ,Rice,98286,374824,23.4845412,88.5567631
+West Bengal,NADIA,Summer     ,Sesamum,24546,29591,23.4845412,88.5567631
+West Bengal,NADIA,Whole Year ,Sugarcane,1754,248215,23.4845412,88.5567631
+West Bengal,NADIA,Whole Year ,Tobacco,12,10,23.4845412,88.5567631
+West Bengal,NADIA,Winter     ,Rice,94963,273137,23.4845412,88.5567631
+West Bengal,PURULIA,Autumn     ,Ragi,197,67,23.2961464,86.3421077
+West Bengal,PURULIA,Autumn     ,Rice,4327,6350,23.2961464,86.3421077
+West Bengal,PURULIA,Kharif     ,Horse-gram,1626,756,23.2961464,86.3421077
+West Bengal,PURULIA,Kharif     ,Mesta,387,3440,23.2961464,86.3421077
+West Bengal,PURULIA,Rabi       ,Oilseeds total,823800,287500,23.2961464,86.3421077
